@@ -90,6 +90,11 @@ I go by my alias CityHallin and I'm a System Administrator and Cloud Automation 
 - [Generally available Azure Ebsv5 now available in 13 additional regions](https://azure.microsoft.com/en-us/updates/ebsv5-available-additional-regions/)
 - [Public preview: JavaScript and Python support in Azure SQL bindings](https://azure.microsoft.com/en-us/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/)
 - [Public preview: Autoscale Stream Analytics jobs](https://azure.microsoft.com/en-us/updates/asaautoscalejobs/)
+- [Public preview: Azure Digital Twins 3D Scenes Studio](https://azure.microsoft.com/en-us/updates/public-preview-azure-digital-twins-3d-scenes-studio/)
+- [General availability: Azure Backup supports backup of Write Accelerator enabled disks](https://azure.microsoft.com/en-us/updates/wadiskbackup/)
+- [IoT Hub IP address change notification](https://azure.microsoft.com/en-us/updates/iot-hub-ip-address-change-notification/)
+- [Generally available: Stream Analytics query development improvements](https://azure.microsoft.com/en-us/updates/asaqueryimprovements/)
+- [Generally available: Increased size of Stream Analytics jobs and cluster](https://azure.microsoft.com/en-us/updates/asasizeincrease/)
 <!-- azure_update:END -->   
 
 
