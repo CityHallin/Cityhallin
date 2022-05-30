@@ -38,11 +38,11 @@ I go by my alias CityHallin and I'm a System Administrator and Cloud Automation 
 
 ## ⛅ Azure Update Feed
 <!-- azure_update:START -->
-
-
-
-
-
+- [General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager](https://azure.microsoft.com/en-us/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/)
+- [Public preview: Automate scheduled emails of your saved cost views via API](https://azure.microsoft.com/en-us/updates/cost-management-scheduled-actions-api/)
+- [Generally available Azure Ebsv5 now available in 13 additional regions](https://azure.microsoft.com/en-us/updates/ebsv5-available-additional-regions/)
+- [Public preview: JavaScript and Python support in Azure SQL bindings](https://azure.microsoft.com/en-us/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/)
+- [Public preview: Autoscale Stream Analytics jobs](https://azure.microsoft.com/en-us/updates/asaautoscalejobs/)
 <!-- azure_update:END -->
 
 
