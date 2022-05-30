@@ -2,7 +2,7 @@ name: Azure Update RSS Feed
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "azure_update"
+          max_post_count: 10
           feed_list: "https://azurecomcdn.azureedge.net/en-us/updates/feed/"
