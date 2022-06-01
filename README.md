@@ -85,6 +85,8 @@ I go by my alias ***CityHallin*** and I'm a System Administrator and Cloud Autom
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Switzerland North Availability Zones](https://azure.microsoft.com/en-us/updates/generally-available-switzerland-north-availability-zones/)
+- [Generally available: Budget alert supports action groups with common alert schema](https://azure.microsoft.com/en-us/updates/generally-available-budget-alert-supports-action-groups-with-common-alert-schema-2/)
 - [General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager](https://azure.microsoft.com/en-us/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/)
 - [Public preview: Automate scheduled emails of your saved cost views via API](https://azure.microsoft.com/en-us/updates/cost-management-scheduled-actions-api/)
 - [Generally available Azure Ebsv5 now available in 13 additional regions](https://azure.microsoft.com/en-us/updates/ebsv5-available-additional-regions/)
@@ -93,8 +95,6 @@ I go by my alias ***CityHallin*** and I'm a System Administrator and Cloud Autom
 - [Public preview: Azure Digital Twins 3D Scenes Studio](https://azure.microsoft.com/en-us/updates/public-preview-azure-digital-twins-3d-scenes-studio/)
 - [General availability: Azure Backup supports backup of Write Accelerator enabled disks](https://azure.microsoft.com/en-us/updates/wadiskbackup/)
 - [IoT Hub IP address change notification](https://azure.microsoft.com/en-us/updates/iot-hub-ip-address-change-notification/)
-- [Generally available: Stream Analytics query development improvements](https://azure.microsoft.com/en-us/updates/asaqueryimprovements/)
-- [Generally available: Increased size of Stream Analytics jobs and cluster](https://azure.microsoft.com/en-us/updates/asasizeincrease/)
 <!-- azure_update:END -->   
 
 
