@@ -87,10 +87,10 @@ I go by my alias ***CityHallin*** and I'm a System Administrator and Cloud Autom
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/public-preview-manage-azure-web-application-firewall-policies-in-azure-firewall-manager/)
 - [General availability: Storage optimized Azure VMs deliver higher performance for data analytics.](https://azure.microsoft.com/en-us/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2/)
 - [Generally available: Azure NC A100 v4 virtual machines for AI](https://azure.microsoft.com/en-us/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/)
 - [General availability: Conversational language understanding](https://azure.microsoft.com/en-us/updates/general-availability-conversational-language-understanding/)
-- [Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/)
 - [General availability: Azure Bastion IP based connection](https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address/)
 - [General availability: New portal experience for Microsoft Artifact Registry](https://azure.microsoft.com/en-us/updates/general-availability-new-portal-experience-for-microsoft-artifact-registry/)
 - [General availability: Enhanced IPv6 functionality for MultiValue profiles in Azure Traffic Manager](https://azure.microsoft.com/en-us/updates/general-availability-enhanced-ipv6-functionality-for-multivalue-profiles-in-azure-traffic-manager/)
