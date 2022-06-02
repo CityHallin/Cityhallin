@@ -87,6 +87,7 @@ I go by my alias ***CityHallin*** and I'm a System Administrator and Cloud Autom
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Storage optimized Azure VMs deliver higher performance for data analytics.](https://azure.microsoft.com/en-us/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2/)
 - [Generally available: Azure NC A100 v4 virtual machines for AI](https://azure.microsoft.com/en-us/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/)
 - [General availability: Conversational language understanding](https://azure.microsoft.com/en-us/updates/general-availability-conversational-language-understanding/)
 - [Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/)
@@ -96,7 +97,6 @@ I go by my alias ***CityHallin*** and I'm a System Administrator and Cloud Autom
 - [Public preview: Automate scheduled emails of your saved cost views via API](https://azure.microsoft.com/en-us/updates/cost-management-scheduled-actions-api/)
 - [Generally available Azure Ebsv5 now available in 13 additional regions](https://azure.microsoft.com/en-us/updates/ebsv5-available-additional-regions/)
 - [Public preview: JavaScript and Python support in Azure SQL bindings](https://azure.microsoft.com/en-us/updates/public-preview-javascript-and-python-support-in-azure-sql-bindings/)
-- [Public preview: Autoscale Stream Analytics jobs](https://azure.microsoft.com/en-us/updates/asaautoscalejobs/)
 <!-- azure_update:END -->   
 
 
