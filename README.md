@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Azure NetApp Files datastores for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2/)
+- [General availability: Trusted launch support for virtual machines using Ephemeral OS disks](https://azure.microsoft.com/en-us/updates/general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks/)
 - [Public preview: ExpressRoute IPv6 Support for Global Reach](https://azure.microsoft.com/en-us/updates/public-preview-expressroute-ipv6-support-for-global-reach/)
 - [General availability: Updates for resource configuration changes](https://azure.microsoft.com/en-us/updates/ga-updates-resource-configuration-changes/)
 - [Public preview: Azure Percept DK May &lpar;2205&rpar; software update](https://azure.microsoft.com/en-us/updates/apdk2205update/)
@@ -96,9 +98,7 @@
 - [Generally available: Azure NC A100 v4 virtual machines for AI](https://azure.microsoft.com/en-us/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/)
 - [General availability: Conversational language understanding](https://azure.microsoft.com/en-us/updates/general-availability-conversational-language-understanding/)
 - [Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/)
-- [General availability: Storage optimized Azure VMs deliver higher performance for data analytics](https://azure.microsoft.com/en-us/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics/)
 - [General availability: Azure Bastion IP based connection](https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address/)
-- [General availability: New portal experience for Microsoft Artifact Registry](https://azure.microsoft.com/en-us/updates/general-availability-new-portal-experience-for-microsoft-artifact-registry/)
 <!-- azure_update:END -->   
 
 
