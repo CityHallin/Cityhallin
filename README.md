@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Azure NetApp Files datastores for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/public-preview-azure-netapp-files-datastores-for-azure-vmware-solution-public-preview-2-2/)
-- [General availability: Trusted launch support for virtual machines using Ephemeral OS disks](https://azure.microsoft.com/en-us/updates/general-availability-trusted-launch-support-for-virtual-machines-using-ephemeral-os-disks/)
-- [Public preview: ExpressRoute IPv6 Support for Global Reach](https://azure.microsoft.com/en-us/updates/public-preview-expressroute-ipv6-support-for-global-reach/)
-- [General availability: Updates for resource configuration changes](https://azure.microsoft.com/en-us/updates/ga-updates-resource-configuration-changes/)
-- [Public preview: Azure Percept DK May &lpar;2205&rpar; software update](https://azure.microsoft.com/en-us/updates/apdk2205update/)
-- [General availability: Storage optimized Azure VMs deliver higher performance for data analytics.](https://azure.microsoft.com/en-us/updates/general-availability-storage-optimized-azure-vms-deliver-higher-performance-for-data-analytics-2/)
-- [Generally available: Azure NC A100 v4 virtual machines for AI](https://azure.microsoft.com/en-us/updates/generally-available-azure-nc-a100-v4-virtual-machines-for-ai/)
-- [General availability: Conversational language understanding](https://azure.microsoft.com/en-us/updates/general-availability-conversational-language-understanding/)
-- [Public preview: Manage Azure Web Application Firewall policies in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/public-preview-manage-azure-waf-policies-in-azure-firewall-manager/)
-- [General availability: Azure Bastion IP based connection](https://azure.microsoft.com/en-us/updates/general-availability-azure-bastion-ip-based-connection-connect-onpremises-resources-via-specified-ip-address/)
+- [General availability: Azure Databricks available in new regions](https://azure.microsoft.com/en-us/updates/general-availability-azure-databricks-available-in-new-regions/)
+- [General availability: Azure SDK for Go](https://azure.microsoft.com/en-us/updates/general-availability-azure-sdk-for-go/)
+- [Public preview: Azure Load Testing supports splitting input data across test engines](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines/)
+- [Public preview: Azure Load Testing support for user specified JMeter properties](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-user-specified-jmeter-properties/)
+- [Public preview: Azure Load Testing support for customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-customermanaged-keys/)
+- [Public preview: Azure Load Testing supports quick start tests with web URL](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-quick-start-tests-with-web-url/)
+- [Public preview: Azure Load Testing support for user-assigned managed identities](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-userassigned-managed-identities/)
+- [Generally available: Azure Container Apps support for custom domains and TLS certificates](https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates/)
+- [Public preview: Linux portal editing for applications](https://azure.microsoft.com/en-us/updates/public-preview-linux-portal-editing-for-applications/)
+- [Public preview: Mount Azure Files and ephemeral storage in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-mount-azure-files-and-ephemeral-storage-in-azure-container-apps/)
 <!-- azure_update:END -->   
 
 
