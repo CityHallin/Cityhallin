@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Expanded feature regional availability for standard network features](https://azure.microsoft.com/en-us/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/)
+- [General availability: Feature general availability and feature expansion of regional availability](https://azure.microsoft.com/en-us/updates/azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability/)
 - [General availability: Azure Databricks available in new regions](https://azure.microsoft.com/en-us/updates/general-availability-azure-databricks-available-in-new-regions/)
 - [General availability: Azure SDK for Go](https://azure.microsoft.com/en-us/updates/general-availability-azure-sdk-for-go/)
 - [Public preview: Azure Load Testing supports splitting input data across test engines](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines/)
@@ -97,8 +99,6 @@
 - [Public preview: Azure Load Testing supports quick start tests with web URL](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-quick-start-tests-with-web-url/)
 - [Public preview: Azure Load Testing support for user-assigned managed identities](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-userassigned-managed-identities/)
 - [Generally available: Azure Container Apps support for custom domains and TLS certificates](https://azure.microsoft.com/en-us/updates/generally-available-azure-container-apps-support-for-custom-domains-and-tls-certificates/)
-- [Public preview: Linux portal editing for applications](https://azure.microsoft.com/en-us/updates/public-preview-linux-portal-editing-for-applications/)
-- [Public preview: Mount Azure Files and ephemeral storage in Azure Container Apps](https://azure.microsoft.com/en-us/updates/public-preview-mount-azure-files-and-ephemeral-storage-in-azure-container-apps/)
 <!-- azure_update:END -->   
 
 
