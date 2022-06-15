@@ -89,6 +89,9 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: ExpressRoute Direct and Circuit in different subscriptions](https://azure.microsoft.com/en-us/updates/public-preview-expressroute-direct-and-circuit-in-different-subscriptions/)
+- [Public preview: Windows Admin Center in the Azure portal](https://azure.microsoft.com/en-us/updates/public-preview-windows-admin-center-in-the-azure-portal/)
+- [General availability: Azure WAF policy and DDoS management in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/)
 - [General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps](https://azure.microsoft.com/en-us/updates/power-platform-connector-ga/)
 - [Public preview: Private link support in Azure Application Gateway](https://azure.microsoft.com/en-us/updates/public-preview-private-link-support-for-application-gateway/)
 - [Public preview: Expanded feature regional availability for standard network features](https://azure.microsoft.com/en-us/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/)
@@ -96,9 +99,6 @@
 - [General availability: Azure Databricks available in new regions](https://azure.microsoft.com/en-us/updates/general-availability-azure-databricks-available-in-new-regions/)
 - [General availability: Azure SDK for Go](https://azure.microsoft.com/en-us/updates/general-availability-azure-sdk-for-go/)
 - [Public preview: Azure Load Testing supports splitting input data across test engines](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-splitting-input-data-across-test-engines/)
-- [Public preview: Azure Load Testing support for user specified JMeter properties](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-user-specified-jmeter-properties/)
-- [Public preview: Azure Load Testing support for customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-support-for-customermanaged-keys/)
-- [Public preview: Azure Load Testing supports quick start tests with web URL](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-quick-start-tests-with-web-url/)
 <!-- azure_update:END -->   
 
 
