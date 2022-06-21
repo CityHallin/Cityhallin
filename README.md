@@ -89,6 +89,9 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: SMB Continuous Availability shares for Citrix App Layering](https://azure.microsoft.com/en-us/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/)
+- [Public preview: Resource governance for client applications in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/resource-governance-for-client-applications-in-azure-event-hubs-public-preview/)
+- [Public preview: Apache Parquet capturing support in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/apache-parquet-capturing-support-in-azure-event-hubs/)
 - [Public preview: Azure Virtual Network Manager in nine new regions](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-in-nine-more-regions/)
 - [Public preview: ExpressRoute Direct and Circuit in different subscriptions](https://azure.microsoft.com/en-us/updates/public-preview-expressroute-direct-and-circuit-in-different-subscriptions/)
 - [Public preview: Windows Admin Center in the Azure portal](https://azure.microsoft.com/en-us/updates/public-preview-windows-admin-center-in-the-azure-portal/)
@@ -96,9 +99,6 @@
 - [General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps](https://azure.microsoft.com/en-us/updates/power-platform-connector-ga/)
 - [Public preview: Private link support in Azure Application Gateway](https://azure.microsoft.com/en-us/updates/public-preview-private-link-support-for-application-gateway/)
 - [Public preview: Expanded feature regional availability for standard network features](https://azure.microsoft.com/en-us/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/)
-- [General availability: Feature general availability and feature expansion of regional availability](https://azure.microsoft.com/en-us/updates/azure-netapp-files-feature-general-availability-and-feature-expanded-regional-availability/)
-- [General availability: Azure Databricks available in new regions](https://azure.microsoft.com/en-us/updates/general-availability-azure-databricks-available-in-new-regions/)
-- [General availability: Azure SDK for Go](https://azure.microsoft.com/en-us/updates/general-availability-azure-sdk-for-go/)
 <!-- azure_update:END -->   
 
 
