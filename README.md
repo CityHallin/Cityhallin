@@ -89,7 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: SMB Continuous Availability shares for Citrix App Layering](https://azure.microsoft.com/en-us/updates/azure-netapp-files-smb-continuous-availability-ca-shares-for-citrix-app-layering/)
+- [General availability: LDAP signing](https://azure.microsoft.com/en-us/updates/azure-netapp-files-general-availability-of-ldap-signing/)
+- [General availability: Azure GitOps with Flux v2](https://azure.microsoft.com/en-us/updates/general-availability-of-azure-gitops-with-flux-v2/)
 - [Public preview: Resource governance for client applications in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/resource-governance-for-client-applications-in-azure-event-hubs-public-preview/)
 - [Public preview: Apache Parquet capturing support in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/apache-parquet-capturing-support-in-azure-event-hubs/)
 - [Public preview: Azure Virtual Network Manager in nine new regions](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-in-nine-more-regions/)
@@ -98,7 +99,6 @@
 - [General availability: Azure WAF policy and DDoS management in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/)
 - [General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps](https://azure.microsoft.com/en-us/updates/power-platform-connector-ga/)
 - [Public preview: Private link support in Azure Application Gateway](https://azure.microsoft.com/en-us/updates/public-preview-private-link-support-for-application-gateway/)
-- [Public preview: Expanded feature regional availability for standard network features](https://azure.microsoft.com/en-us/updates/expanded-feature-regional-availability-for-standard-network-features-azure-netapp-files/)
 <!-- azure_update:END -->   
 
 
