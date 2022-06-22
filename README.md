@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Durable Functions for Java](https://azure.microsoft.com/en-us/updates/public-preview-durable-functions-for-java/)
 - [General availability: LDAP signing](https://azure.microsoft.com/en-us/updates/azure-netapp-files-general-availability-of-ldap-signing/)
 - [General availability: Azure GitOps with Flux v2](https://azure.microsoft.com/en-us/updates/general-availability-of-azure-gitops-with-flux-v2/)
 - [Public preview: Resource governance for client applications in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/resource-governance-for-client-applications-in-azure-event-hubs-public-preview/)
@@ -98,7 +99,6 @@
 - [Public preview: Windows Admin Center in the Azure portal](https://azure.microsoft.com/en-us/updates/public-preview-windows-admin-center-in-the-azure-portal/)
 - [General availability: Azure WAF policy and DDoS management in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/)
 - [General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps](https://azure.microsoft.com/en-us/updates/power-platform-connector-ga/)
-- [Public preview: Private link support in Azure Application Gateway](https://azure.microsoft.com/en-us/updates/public-preview-private-link-support-for-application-gateway/)
 <!-- azure_update:END -->   
 
 
