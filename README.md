@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Durable Functions for Java](https://azure.microsoft.com/en-us/updates/public-preview-durable-functions-for-java/)
-- [General availability: LDAP signing](https://azure.microsoft.com/en-us/updates/azure-netapp-files-general-availability-of-ldap-signing/)
-- [General availability: Azure GitOps with Flux v2](https://azure.microsoft.com/en-us/updates/general-availability-of-azure-gitops-with-flux-v2/)
-- [Public preview: Resource governance for client applications in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/resource-governance-for-client-applications-in-azure-event-hubs-public-preview/)
-- [Public preview: Apache Parquet capturing support in Azure Event Hubs](https://azure.microsoft.com/en-us/updates/apache-parquet-capturing-support-in-azure-event-hubs/)
-- [Public preview: Azure Virtual Network Manager in nine new regions](https://azure.microsoft.com/en-us/updates/azure-virtual-network-manager-in-nine-more-regions/)
-- [Public preview: ExpressRoute Direct and Circuit in different subscriptions](https://azure.microsoft.com/en-us/updates/public-preview-expressroute-direct-and-circuit-in-different-subscriptions/)
-- [Public preview: Windows Admin Center in the Azure portal](https://azure.microsoft.com/en-us/updates/public-preview-windows-admin-center-in-the-azure-portal/)
-- [General availability: Azure WAF policy and DDoS management in Azure Firewall Manager](https://azure.microsoft.com/en-us/updates/general-availability-azure-web-application-firewall-policies-in-azure-firewall-manager/)
-- [General availability: Azure Data Explorer connector for Power Automate, Logic Apps, and Power Apps](https://azure.microsoft.com/en-us/updates/power-platform-connector-ga/)
+- [Generally available: Windows IoT on Arm64](https://azure.microsoft.com/en-us/updates/generally-available-windows-iot-on-arm64/)
+- [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
+- [Public preview: Link feature in Azure SQL MI for SQL Server 2016](https://azure.microsoft.com/en-us/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/)
+- [General availability: Azure Advisor support for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-support-for-azure-database-for-mysql-flexible-server/)
+- [Public preview: Azure Data Studio MongoDB extension for Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-azure-data-studio-mongodb-extension-for-azure-cosmos-db/)
+- [Public preview: Continuous backup enhancements in Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-continuous-backup-enhancements-in-azure-cosmos-db/)
+- [Public preview: Azure Cosmos DB SQL API Go SDK improvements](https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sql-api-go-sdk-improvements/)
+- [Generally available: Azure Cosmos DB Core &lpar;SQL&rpar; API Query Engine improvements](https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-core-sql-api-query-engine-improvements/)
+- [Generally available: Improved Try Azure Cosmos DB for free experience](https://azure.microsoft.com/en-us/updates/generally-available-improved-try-azure-cosmos-db-for-free-experience/)
+- [Public preview: AKS release tracker](https://azure.microsoft.com/en-us/updates/public-preview-aks-release-tracker/)
 <!-- azure_update:END -->   
 
 
