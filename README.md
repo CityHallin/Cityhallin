@@ -89,6 +89,9 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
+- [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
+- [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
 - [Generally available: Windows IoT on Arm64](https://azure.microsoft.com/en-us/updates/generally-available-windows-iot-on-arm64/)
 - [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
 - [Public preview: Link feature in Azure SQL MI for SQL Server 2016](https://azure.microsoft.com/en-us/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/)
@@ -96,9 +99,6 @@
 - [Public preview: Azure Data Studio MongoDB extension for Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-azure-data-studio-mongodb-extension-for-azure-cosmos-db/)
 - [Public preview: Continuous backup enhancements in Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-continuous-backup-enhancements-in-azure-cosmos-db/)
 - [Public preview: Azure Cosmos DB SQL API Go SDK improvements](https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sql-api-go-sdk-improvements/)
-- [Generally available: Azure Cosmos DB Core &lpar;SQL&rpar; API Query Engine improvements](https://azure.microsoft.com/en-us/updates/generally-available-azure-cosmos-db-core-sql-api-query-engine-improvements/)
-- [Generally available: Improved Try Azure Cosmos DB for free experience](https://azure.microsoft.com/en-us/updates/generally-available-improved-try-azure-cosmos-db-for-free-experience/)
-- [Public preview: AKS release tracker](https://azure.microsoft.com/en-us/updates/public-preview-aks-release-tracker/)
 <!-- azure_update:END -->   
 
 
