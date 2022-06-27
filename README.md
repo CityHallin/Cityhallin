@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
+- [Generally available: Azure IoT Edge 1.3.0 release](https://azure.microsoft.com/en-us/updates/azure-iot-edge-130-release-is-now-generally-available/)
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
 - [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
 - [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
@@ -97,8 +99,6 @@
 - [Public preview: Link feature in Azure SQL MI for SQL Server 2016](https://azure.microsoft.com/en-us/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/)
 - [General availability: Azure Advisor support for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-support-for-azure-database-for-mysql-flexible-server/)
 - [Public preview: Azure Data Studio MongoDB extension for Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-azure-data-studio-mongodb-extension-for-azure-cosmos-db/)
-- [Public preview: Continuous backup enhancements in Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-continuous-backup-enhancements-in-azure-cosmos-db/)
-- [Public preview: Azure Cosmos DB SQL API Go SDK improvements](https://azure.microsoft.com/en-us/updates/public-preview-azure-cosmos-db-sql-api-go-sdk-improvements/)
 <!-- azure_update:END -->   
 
 
