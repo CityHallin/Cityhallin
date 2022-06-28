@@ -89,8 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
 - [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
-- [Generally available: Azure IoT Edge 1.3.0 release](https://azure.microsoft.com/en-us/updates/azure-iot-edge-130-release-is-now-generally-available/)
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
 - [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
 - [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
