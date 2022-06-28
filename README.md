@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
 - [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
 - [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
@@ -98,7 +99,6 @@
 - [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
 - [Public preview: Link feature in Azure SQL MI for SQL Server 2016](https://azure.microsoft.com/en-us/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/)
 - [General availability: Azure Advisor support for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-azure-advisor-support-for-azure-database-for-mysql-flexible-server/)
-- [Public preview: Azure Data Studio MongoDB extension for Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/public-preview-azure-data-studio-mongodb-extension-for-azure-cosmos-db/)
 <!-- azure_update:END -->   
 
 
