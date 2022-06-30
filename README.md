@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Temporary access pass for Azure Active Directory](https://azure.microsoft.com/en-us/updates/general-availability-temporary-access-pass-for-azure-active-directory/)
 - [General availability: MATCH clause for Query](https://azure.microsoft.com/en-us/updates/matchclausequery/)
 - [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
 - [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
@@ -98,7 +99,6 @@
 - [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
 - [Generally available: Windows IoT on Arm64](https://azure.microsoft.com/en-us/updates/generally-available-windows-iot-on-arm64/)
 - [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
-- [Public preview: Link feature in Azure SQL MI for SQL Server 2016](https://azure.microsoft.com/en-us/updates/public-preview-link-feature-in-azure-sql-mi-for-sql-server-2016/)
 <!-- azure_update:END -->   
 
 
