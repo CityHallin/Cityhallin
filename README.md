@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Azure Active Directory authentication for Application Insights](https://azure.microsoft.com/en-us/updates/general-availability-azure-ad-authentication-for-application-insights/)
+- [Generally available: Azure Backup multi-user authorization for recovery services vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-ga/)
+- [Generally available: 2022-05-31 Azure IoT Central REST API release](https://azure.microsoft.com/en-us/updates/iotc-2022-05-31-rest-api/)
+- [Generally available: Resize rows in Azure IoT Central device raw data view](https://azure.microsoft.com/en-us/updates/iotc-resize-raw-data-view/)
 - [General availability: Temporary access pass for Azure Active Directory](https://azure.microsoft.com/en-us/updates/general-availability-temporary-access-pass-for-azure-active-directory/)
 - [General availability: MATCH clause for Query](https://azure.microsoft.com/en-us/updates/matchclausequery/)
 - [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
 - [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
 - [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
-- [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
-- [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
-- [Generally available: Windows IoT on Arm64](https://azure.microsoft.com/en-us/updates/generally-available-windows-iot-on-arm64/)
-- [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
 <!-- azure_update:END -->   
 
 
