@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Microsoft Purview data sharing](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-purview-data-sharing/)
 - [General availability: Azure Active Directory authentication for Application Insights](https://azure.microsoft.com/en-us/updates/general-availability-azure-ad-authentication-for-application-insights/)
 - [Generally available: Azure Backup multi-user authorization for recovery services vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-ga/)
 - [Generally available: 2022-05-31 Azure IoT Central REST API release](https://azure.microsoft.com/en-us/updates/iotc-2022-05-31-rest-api/)
@@ -98,7 +99,6 @@
 - [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
 - [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
 - [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
-- [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
 <!-- azure_update:END -->   
 
 
