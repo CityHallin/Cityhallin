@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Limited preview: Smart tiering to vault-archive tier for Azure Backup](https://azure.microsoft.com/en-us/updates/limited-preview-smart-tiering-to-vault-archive-tier-for-azure-backup/)
+- [Public preview: Azure Percept DK June &lpar;2206&rpar; software update](https://azure.microsoft.com/en-us/updates/apdk2206update/)
 - [Public preview: Microsoft Purview data sharing for Azure Storage](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-purview-data-sharing/)
 - [General availability: MATCH clause for Query](https://azure.microsoft.com/en-us/updates/matchclausequery/)
 - [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
@@ -97,8 +99,6 @@
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
 - [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
 - [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
-- [Generally available: Windows IoT on Arm64](https://azure.microsoft.com/en-us/updates/generally-available-windows-iot-on-arm64/)
-- [General availability: Azure Machine Learning announcements for June 2022](https://azure.microsoft.com/en-us/updates/general-availability-azure-machine-learning-announcements-for-june-2022/)
 <!-- azure_update:END -->   
 
 
