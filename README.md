@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Ephemeral OS disk support for confidential virtual machines](https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-for-confidential-vms/)
 - [Limited preview: Smart tiering to vault-archive tier for Azure Backup](https://azure.microsoft.com/en-us/updates/limited-preview-smart-tiering-to-vault-archive-tier-for-azure-backup/)
 - [Public preview: Azure Percept DK June &lpar;2206&rpar; software update](https://azure.microsoft.com/en-us/updates/apdk2206update/)
 - [Public preview: Microsoft Purview data sharing for Azure Storage](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-purview-data-sharing/)
+- [Generally available: Azure Backup multi-user authorization for recovery services vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-ga/)
 - [General availability: MATCH clause for Query](https://azure.microsoft.com/en-us/updates/matchclausequery/)
 - [Generally available: Export device data under an organization in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-data-under-organization/)
 - [Public preview: Multiple backups per day for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/mbpd-azurevm-preview/)
 - [Public preview: Create an additional 5000 Azure Storage accounts within your subscription](https://azure.microsoft.com/en-us/updates/preview-5kaccountlimit/)
 - [Azure SQL—Public preview updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-june-2022/)
-- [Azure SQL—Generally available updates for late June 2022](https://azure.microsoft.com/en-us/updates/azure-sql-generally-available-updates-for-late-june-2022/)
-- [General availability: Azure Key Vault secrets provider on Azure Arc enabled Kubernetes](https://azure.microsoft.com/en-us/updates/general-availability-akv-provider-arc-kubernetes/)
 <!-- azure_update:END -->   
 
 
