@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Ephemeral OS disk support for confidential virtual machines](https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disk-support-for-confidential-vms/)
-- [Limited preview: Smart tiering to vault-archive tier for Azure Backup](https://azure.microsoft.com/en-us/updates/limited-preview-smart-tiering-to-vault-archive-tier-for-azure-backup/)
-- [Public preview: Azure Percept DK June &lpar;2206&rpar; software update](https://azure.microsoft.com/en-us/updates/apdk2206update/)
-- [Public preview: Microsoft Purview data sharing for Azure Storage](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-purview-data-sharing/)
-- [General availability: Azure Active Directory authentication for Application Insights](https://azure.microsoft.com/en-us/updates/general-availability-azure-ad-authentication-for-application-insights/)
-- [Generally available: Azure Backup multi-user authorization for recovery services vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-ga/)
-- [Generally available: 2022-05-31 Azure IoT Central REST API release](https://azure.microsoft.com/en-us/updates/iotc-2022-05-31-rest-api/)
-- [Generally available: Resize rows in Azure IoT Central device raw data view](https://azure.microsoft.com/en-us/updates/iotc-resize-raw-data-view/)
-- [General availability: Temporary access pass for Azure Active Directory](https://azure.microsoft.com/en-us/updates/general-availability-temporary-access-pass-for-azure-active-directory/)
-- [General availability: MATCH clause for Query](https://azure.microsoft.com/en-us/updates/matchclausequery/)
+- [General availability: Azure Archive Storage now available in South Africa North](https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/)
+- [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
+- [General availability: Azure Database for PostgreSQL—Hyperscale &lpar;Citus&rpar; supports PostgreSQL minor versions](https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3/)
+- [Generally available: Azure Functions retry policy for Event Hubs and timer triggers](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-retry-policy-for-event-hubs-and-timer-triggers/)
+- [Generally available: Azure Digital Twins Data history](https://azure.microsoft.com/en-us/updates/generally-available-azure-digital-twins-data-history/)
+- [General availability: Azure Active Directory authentication for Application Insights](https://azure.microsoft.com/en-us/updates/general-availability-azure-active-directory-authentication-for-application-insights/)
+- [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/general-availability-application-insights-standard-test-for-synthetic-monitoring/)
+- [Public preview: Container Insights now supports Windows Server 2022](https://azure.microsoft.com/en-us/updates/public-preview-container-insights-now-supports-windows-server-2022/)
+- [Public preview: User-assigned Managed Identity support for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-userassigned-managed-identity-support-for-azure-monitor-agent/)
+- [Generally available: Enabling JBoss EAP on Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/updates/generally-available-enabling-jboss-eap-on-azure-red-hat-openshift/)
 <!-- azure_update:END -->   
 
 
