@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: 2022-06-30 Azure IoT Central REST API release is now live](https://azure.microsoft.com/en-us/updates/iotc-2022-06-30-rest-api-preview/)
+- [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/standard-tests-within-application-insights-availability/)
 - [General availability: Azure Archive Storage now available in South Africa North](https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/)
 - [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
 - [General availability: Azure Database for PostgreSQL—Hyperscale &lpar;Citus&rpar; supports PostgreSQL minor versions](https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3/)
@@ -97,8 +99,6 @@
 - [General availability: Azure Active Directory authentication for Application Insights](https://azure.microsoft.com/en-us/updates/general-availability-azure-active-directory-authentication-for-application-insights/)
 - [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/general-availability-application-insights-standard-test-for-synthetic-monitoring/)
 - [Public preview: Container Insights now supports Windows Server 2022](https://azure.microsoft.com/en-us/updates/public-preview-container-insights-now-supports-windows-server-2022/)
-- [Public preview: User-assigned Managed Identity support for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-userassigned-managed-identity-support-for-azure-monitor-agent/)
-- [Generally available: Enabling JBoss EAP on Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/updates/generally-available-enabling-jboss-eap-on-azure-red-hat-openshift/)
 <!-- azure_update:END -->   
 
 
