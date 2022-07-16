@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Responsible AI investments and safeguards for Facial Recognition](https://azure.microsoft.com/en-us/updates/facelimitedaccess/)
 - [Generally available: Azure Site Recovery update rollup 62 - July 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-62-july-2022/)
 - [Generally available: Exporting device customizations and cloud properties in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-customizations-and-cloud-properties/)
 - [Generally available: Azure Gateway Load Balancer](https://azure.microsoft.com/en-us/updates/generally-available-azure-gateway-load-balancer/)
@@ -98,7 +99,6 @@
 - [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/standard-tests-within-application-insights-availability/)
 - [General availability: Azure Archive Storage now available in South Africa North](https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/)
 - [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
-- [General availability: Azure Database for PostgreSQL—Hyperscale &lpar;Citus&rpar; supports PostgreSQL minor versions](https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-postgresql-hyperscale-citus-supports-postgresql-minor-versions-3/)
 <!-- azure_update:END -->   
 
 
