@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: OVN-Kubernetes network provider for Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/updates/public-preview-ovnkubernetes-network-provider-for-azure-red-hat-openshift/)
 - [Responsible AI investments and safeguards for Facial Recognition](https://azure.microsoft.com/en-us/updates/facelimitedaccess/)
 - [Generally available: Azure Site Recovery update rollup 62 - July 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-62-july-2022/)
 - [Generally available: Exporting device customizations and cloud properties in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-customizations-and-cloud-properties/)
@@ -98,7 +99,6 @@
 - [Public preview: 2022-06-30 Azure IoT Central REST API release is now live](https://azure.microsoft.com/en-us/updates/iotc-2022-06-30-rest-api-preview/)
 - [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/standard-tests-within-application-insights-availability/)
 - [General availability: Azure Archive Storage now available in South Africa North](https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/)
-- [Public preview: Migration tools for Azure Monitor Agent](https://azure.microsoft.com/en-us/updates/public-preview-migration-tools-for-azure-monitor-agent/)
 <!-- azure_update:END -->   
 
 
