@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/public-preview-premium-ssd-v2-disk-storage/)
-- [Public preview: OVN-Kubernetes network provider for Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/updates/public-preview-ovnkubernetes-network-provider-for-azure-red-hat-openshift/)
-- [Responsible AI investments and safeguards for Facial Recognition](https://azure.microsoft.com/en-us/updates/facelimitedaccess/)
-- [Generally available: Azure Site Recovery update rollup 62 - July 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-62-july-2022/)
-- [Generally available: Exporting device customizations and cloud properties in Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-export-customizations-and-cloud-properties/)
-- [Generally available: Azure Gateway Load Balancer](https://azure.microsoft.com/en-us/updates/generally-available-azure-gateway-load-balancer/)
-- [Generally available: Azure IoT Edge 1.3.0 release](https://azure.microsoft.com/en-us/updates/azure-iot-edge-130-release-is-now-generally-available/)
-- [Public preview: Azure Active Directory authentication for exporting and importing Managed Disks](https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-authentication-for-exporting-and-importing-managed-disks/)
-- [Public preview: 2022-06-30 Azure IoT Central REST API release is now live](https://azure.microsoft.com/en-us/updates/iotc-2022-06-30-rest-api-preview/)
-- [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/standard-tests-within-application-insights-availability/)
+- [Public preview: Azure Marketplace for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-azure-marketplace-for-arcenabled-azure-stack-hci/)
+- [Public preview: Remote support for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-remote-support-for-arcenabled-azure-stack-hci/)
+- [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
+- [Public preview: Arc-enabled guest VMs with extensions for Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-arcenabled-guest-vms-with-extensions-for-azure-stack-hci/)
+- [Generally available: Microsoft Cost Details API](https://azure.microsoft.com/en-us/updates/generally-available-microsoft-cost-details-api/)
+- [Generally available: Tag filtering in Azure Advisor](https://azure.microsoft.com/en-us/updates/generally-available-tag-filtering-in-azure-advisor/)
+- [Public preview: Azure Spring Apps feature updates](https://azure.microsoft.com/en-us/updates/public-preview-azure-spring-apps-feature-updates/)
+- [Public preview: Azure Load Testing - additional metrics for pass/fail criteria](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-additional-metrics-for-passfail-criteria/)
+- [Public preview: Azure Load Testing now displays load engine health metrics](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-now-displays-load-engine-health-metrics/)
+- [Public preview: Blob CSI support in AKS](https://azure.microsoft.com/en-us/updates/public-preview-blob-csi-support-in-aks/)
 <!-- azure_update:END -->   
 
 
