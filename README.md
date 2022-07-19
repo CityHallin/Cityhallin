@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/public-preview-premium-ssd-v2-disk-storage/)
 - [Public preview: OVN-Kubernetes network provider for Azure Red Hat OpenShift](https://azure.microsoft.com/en-us/updates/public-preview-ovnkubernetes-network-provider-for-azure-red-hat-openshift/)
 - [Responsible AI investments and safeguards for Facial Recognition](https://azure.microsoft.com/en-us/updates/facelimitedaccess/)
 - [Generally available: Azure Site Recovery update rollup 62 - July 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-62-july-2022/)
@@ -98,7 +99,6 @@
 - [Public preview: Azure Active Directory authentication for exporting and importing Managed Disks](https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-authentication-for-exporting-and-importing-managed-disks/)
 - [Public preview: 2022-06-30 Azure IoT Central REST API release is now live](https://azure.microsoft.com/en-us/updates/iotc-2022-06-30-rest-api-preview/)
 - [General availability: Application Insights standard test for synthetic monitoring](https://azure.microsoft.com/en-us/updates/standard-tests-within-application-insights-availability/)
-- [General availability: Azure Archive Storage now available in South Africa North](https://azure.microsoft.com/en-us/updates/general-availability-azure-archive-storage-now-available-in-south-africa-north/)
 <!-- azure_update:END -->   
 
 
