@@ -93,12 +93,12 @@
 - [Public preview: Remote support for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-remote-support-for-arcenabled-azure-stack-hci/)
 - [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
 - [Public preview: Arc-enabled guest VMs with extensions for Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-arcenabled-guest-vms-with-extensions-for-azure-stack-hci/)
-- [Generally available: Microsoft Cost Details API](https://azure.microsoft.com/en-us/updates/generally-available-microsoft-cost-details-api/)
 - [Generally available: Tag filtering in Azure Advisor](https://azure.microsoft.com/en-us/updates/generally-available-tag-filtering-in-azure-advisor/)
 - [Public preview: Azure Spring Apps feature updates](https://azure.microsoft.com/en-us/updates/public-preview-azure-spring-apps-feature-updates/)
 - [Public preview: Azure Load Testing - additional metrics for pass/fail criteria](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-additional-metrics-for-passfail-criteria/)
 - [Public preview: Azure Load Testing now displays load engine health metrics](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-now-displays-load-engine-health-metrics/)
 - [Public preview: Blob CSI support in AKS](https://azure.microsoft.com/en-us/updates/public-preview-blob-csi-support-in-aks/)
+- [Generally available: Calico for Windows on AKS](https://azure.microsoft.com/en-us/updates/generally-available-calico-for-windows-on-aks/)
 <!-- azure_update:END -->   
 
 
