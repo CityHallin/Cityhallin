@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Live resize for Premium SSD and Standard SSD Disk Storage](https://azure.microsoft.com/en-us/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
 - [General availability: Azure confidential VMs &lpar;DCasv5/ECasv5-series VMs&rpar;](https://azure.microsoft.com/en-us/updates/azureconfidentialvm/)
 - [Public preview: Azure Monitor for SAP solutions](https://azure.microsoft.com/en-us/updates/preview-of-azure-monitor-for-sap-solutions/)
 - [Generally available: CI/CD Guidance for Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-ci-cd-guidance/)
@@ -98,7 +99,6 @@
 - [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
 - [Generally available: Tag filtering in Azure Advisor](https://azure.microsoft.com/en-us/updates/generally-available-tag-filtering-in-azure-advisor/)
 - [Public preview: Azure Spring Apps feature updates](https://azure.microsoft.com/en-us/updates/public-preview-azure-spring-apps-feature-updates/)
-- [Public preview: Azure Load Testing - additional metrics for pass/fail criteria](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-additional-metrics-for-passfail-criteria/)
 <!-- azure_update:END -->   
 
 
