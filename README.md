@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Azure Stream Analytics in four new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-5-new-regions/)
+- [Generally available: New KMS DNS in Azure Global Cloud](https://azure.microsoft.com/en-us/updates/new-kms-dns-in-azure-global-cloud/)
+- [Public preview: Managed attributes in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-managed-attributes-public-preview/)
+- [Generally available: Rich text editor in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-rich-text-editor/)
+- [General availability: Microsoft Cost Details API for EA and MCA customers](https://azure.microsoft.com/en-us/updates/cost-details-api/)
 - [General availability: NVads A10 v5 Virtual Machines](https://azure.microsoft.com/en-us/updates/general-availability-nvads-a10-v5-virtual-machines/)
 - [Public preview: Enhanced experience to opt in to improved backup alerting](https://azure.microsoft.com/en-us/updates/public-preview-template-based-experience-to-migrate-to-azure-monitor-alerts-for-backup/)
 - [Generally available: Live resize for Premium SSD and Standard SSD Disk Storage](https://azure.microsoft.com/en-us/updates/generally-available-live-resize-for-premium-ssd-and-standard-ssd-disk-storage/)
 - [General availability: Azure confidential VMs &lpar;DCasv5/ECasv5-series VMs&rpar;](https://azure.microsoft.com/en-us/updates/azureconfidentialvm/)
 - [Public preview: Azure Monitor for SAP solutions](https://azure.microsoft.com/en-us/updates/preview-of-azure-monitor-for-sap-solutions/)
-- [Generally available: CI/CD Guidance for Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-ci-cd-guidance/)
-- [Public preview: Azure Marketplace for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-azure-marketplace-for-arcenabled-azure-stack-hci/)
-- [Public preview: Remote support for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-remote-support-for-arcenabled-azure-stack-hci/)
-- [Public preview: Arc-enabled guest VMs with extensions for Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-arcenabled-guest-vms-with-extensions-for-azure-stack-hci/)
-- [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
 <!-- azure_update:END -->   
 
 
