@@ -97,8 +97,8 @@
 - [Generally available: CI/CD Guidance for Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-ci-cd-guidance/)
 - [Public preview: Azure Marketplace for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-azure-marketplace-for-arcenabled-azure-stack-hci/)
 - [Public preview: Remote support for Arc-enabled Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-remote-support-for-arcenabled-azure-stack-hci/)
-- [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
 - [Public preview: Arc-enabled guest VMs with extensions for Azure Stack HCI](https://azure.microsoft.com/en-us/updates/public-preview-arcenabled-guest-vms-with-extensions-for-azure-stack-hci/)
+- [Public preview: Azure Stack HCI version 22H2](https://azure.microsoft.com/en-us/updates/public-preview-azure-stack-hci-version-22h2/)
 <!-- azure_update:END -->   
 
 
