@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: VM Applications – Manage and deploy applications to VMs and VMSS](https://azure.microsoft.com/en-us/updates/general-availability-vm-applications-manage-and-deploy-applications-to-virtual-machines-and-scale-sets/)
+- [Public preview: SQL DB output connector improvements in Stream Analytics](https://azure.microsoft.com/en-us/updates/public-preview-azure-stream-analytics-allows-creation-of-new-sql-tables-and-schema-mismatch-detection-for-existing-sql-tables/)
 - [Public preview: Share images across subscriptions and tenants with new Compute Gallery feature](https://azure.microsoft.com/en-us/updates/public-preview-share-images-across-subscriptions-and-tenants-with-new-compute-gallery-feature/)
 - [Generally available: Azure Stream Analytics in four new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-5-new-regions/)
 - [Generally available: New KMS DNS in Azure Global Cloud](https://azure.microsoft.com/en-us/updates/new-kms-dns-in-azure-global-cloud/)
@@ -97,8 +99,6 @@
 - [General availability: Microsoft Cost Details API for EA and MCA customers](https://azure.microsoft.com/en-us/updates/cost-details-api/)
 - [General availability: NVads A10 v5 Virtual Machines](https://azure.microsoft.com/en-us/updates/general-availability-nvads-a10-v5-virtual-machines/)
 - [Public preview: Enhanced experience to opt in to improved backup alerting](https://azure.microsoft.com/en-us/updates/public-preview-template-based-experience-to-migrate-to-azure-monitor-alerts-for-backup/)
-- [General availability: Azure confidential VMs &lpar;DCasv5/ECasv5-series VMs&rpar;](https://azure.microsoft.com/en-us/updates/azureconfidentialvm/)
-- [Public preview: Azure Monitor for SAP solutions](https://azure.microsoft.com/en-us/updates/preview-of-azure-monitor-for-sap-solutions/)
 <!-- azure_update:END -->   
 
 
