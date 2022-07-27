@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Guided tour experience added to Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-first-run/)
 - [General availability: VM Applications – Manage and deploy applications to VMs and VMSS](https://azure.microsoft.com/en-us/updates/general-availability-vm-applications-manage-and-deploy-applications-to-virtual-machines-and-scale-sets/)
 - [Public preview: SQL DB output connector improvements in Stream Analytics](https://azure.microsoft.com/en-us/updates/public-preview-azure-stream-analytics-allows-creation-of-new-sql-tables-and-schema-mismatch-detection-for-existing-sql-tables/)
 - [Public preview: Share images across subscriptions and tenants with new Compute Gallery feature](https://azure.microsoft.com/en-us/updates/public-preview-share-images-across-subscriptions-and-tenants-with-new-compute-gallery-feature/)
@@ -98,7 +99,6 @@
 - [Generally available: Rich text editor in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-rich-text-editor/)
 - [General availability: Microsoft Cost Details API for EA and MCA customers](https://azure.microsoft.com/en-us/updates/cost-details-api/)
 - [General availability: NVads A10 v5 Virtual Machines](https://azure.microsoft.com/en-us/updates/general-availability-nvads-a10-v5-virtual-machines/)
-- [Public preview: Enhanced experience to opt in to improved backup alerting](https://azure.microsoft.com/en-us/updates/public-preview-template-based-experience-to-migrate-to-azure-monitor-alerts-for-backup/)
 <!-- azure_update:END -->   
 
 
