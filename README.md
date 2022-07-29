@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Azure Sphere version 22.07](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2207/)
+- [Public preview: Azure Synapse Analytics Spark elastic pool storage](https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-analytics-spark-elastic-pool-storage/)
 - [Generally available: Trusted Launch support for DCsv3 and DCdsv3 series Virtual Machines](https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-support-for-dcsv3-and-dcdsv3-series-virtual-machines/)
 - [Generally available: Guided tour experience added to Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-first-run/)
 - [General availability: VM Applications – Manage and deploy applications to VMs and VMSS](https://azure.microsoft.com/en-us/updates/general-availability-vm-applications-manage-and-deploy-applications-to-virtual-machines-and-scale-sets/)
@@ -97,8 +99,6 @@
 - [Generally available: Azure Stream Analytics in four new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-5-new-regions/)
 - [Generally available: New KMS DNS in Azure Global Cloud](https://azure.microsoft.com/en-us/updates/new-kms-dns-in-azure-global-cloud/)
 - [Public preview: Managed attributes in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-managed-attributes-public-preview/)
-- [Generally available: Rich text editor in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-rich-text-editor/)
-- [General availability: Microsoft Cost Details API for EA and MCA customers](https://azure.microsoft.com/en-us/updates/cost-details-api/)
 <!-- azure_update:END -->   
 
 
