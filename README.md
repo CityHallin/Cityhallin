@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Azure StorSimple 8000/1200 series will no longer be supported starting 31st December 2022](https://azure.microsoft.com/en-us/updates/storsimpleeol/)
+- [Generally available: Azure Public IPv6 offerings are free as of July 31](https://azure.microsoft.com/en-us/updates/azure-public-ipv6-offerings-are-free-as-of-july-31/)
 - [General availability: Azure Sphere version 22.07](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2207/)
 - [Public preview: Azure Synapse Analytics Spark elastic pool storage](https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-analytics-spark-elastic-pool-storage/)
 - [Generally available: Trusted Launch support for DCsv3 and DCdsv3 series Virtual Machines](https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-support-for-dcsv3-and-dcdsv3-series-virtual-machines/)
@@ -97,8 +99,6 @@
 - [Public preview: SQL DB output connector improvements in Stream Analytics](https://azure.microsoft.com/en-us/updates/public-preview-azure-stream-analytics-allows-creation-of-new-sql-tables-and-schema-mismatch-detection-for-existing-sql-tables/)
 - [Public preview: Share images across subscriptions and tenants with new Compute Gallery feature](https://azure.microsoft.com/en-us/updates/public-preview-share-images-across-subscriptions-and-tenants-with-new-compute-gallery-feature/)
 - [Generally available: Azure Stream Analytics in four new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-5-new-regions/)
-- [Generally available: New KMS DNS in Azure Global Cloud](https://azure.microsoft.com/en-us/updates/new-kms-dns-in-azure-global-cloud/)
-- [Public preview: Managed attributes in Microsoft Purview data catalog](https://azure.microsoft.com/en-us/updates/microsoft-purview-managed-attributes-public-preview/)
 <!-- azure_update:END -->   
 
 
