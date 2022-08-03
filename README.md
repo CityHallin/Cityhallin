@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Azure Firewall Premium is now ICSA labs certified](https://azure.microsoft.com/en-us/updates/azure-firewall-premium-is-now-icsa-labs-certified/)
+- [General availability: Azure Log Analytics in China North 3 and China East 3](https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-china-north-3-and-china-east-3/)
+- [General availability: Reservation administrator and reader roles in the Azure Portal](https://azure.microsoft.com/en-us/updates/general-availability-reservation-administrator-and-reader-roles-in-azure-portal/)
+- [Generally available: Enforcement mode of machine configuration &lpar;previously guest configuration&rpar;](https://azure.microsoft.com/en-us/updates/generally-available-machine-configuration-previously-guest-configuration/)
 - [General availability: Application Insights in China North 3 and China East 3](https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-china-north-3-and-china-east-3/)
 - [General availability: Next hop IP support for Route Server](https://azure.microsoft.com/en-us/updates/general-availability-next-hop-ip-support-for-route-server/)
 - [Public preview: AMD-based confidential VMs for Azure Kubernetes Service &lpar;AKS&rpar;](https://azure.microsoft.com/en-us/updates/public-preview-amdbased-confidential-vms-for-azure-kubernetes-service-aks/)
 - [Generally available: US West 3 price adjustment](https://azure.microsoft.com/en-us/updates/generally-available-us-west-3-price-adjustment/)
 - [Azure StorSimple 8000/1200 series will no longer be supported starting 31st December 2022](https://azure.microsoft.com/en-us/updates/storsimpleeol/)
 - [Generally available: Azure Public IPv6 offerings are free as of July 31](https://azure.microsoft.com/en-us/updates/azure-public-ipv6-offerings-are-free-as-of-july-31/)
-- [General availability: Azure Sphere version 22.07](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-version-2207/)
-- [Public preview: Azure Synapse Analytics Spark elastic pool storage](https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-analytics-spark-elastic-pool-storage/)
-- [Generally available: Trusted Launch support for DCsv3 and DCdsv3 series Virtual Machines](https://azure.microsoft.com/en-us/updates/generally-available-trusted-launch-support-for-dcsv3-and-dcdsv3-series-virtual-machines/)
-- [Generally available: Guided tour experience added to Azure IoT Central](https://azure.microsoft.com/en-us/updates/iotc-first-run/)
 <!-- azure_update:END -->   
 
 
