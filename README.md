@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Generally available: Azure Firewall Premium is now ICSA labs certified](https://azure.microsoft.com/en-us/updates/azure-firewall-premium-is-now-icsa-labs-certified/)
-- [General availability: Azure Log Analytics in China North 3 and China East 3](https://azure.microsoft.com/en-us/updates/general-availability-azure-log-analytics-in-china-north-3-and-china-east-3/)
-- [General availability: Reservation administrator and reader roles in the Azure Portal](https://azure.microsoft.com/en-us/updates/general-availability-reservation-administrator-and-reader-roles-in-azure-portal/)
-- [Generally available: Enforcement mode of machine configuration &lpar;previously guest configuration&rpar;](https://azure.microsoft.com/en-us/updates/generally-available-machine-configuration-previously-guest-configuration/)
-- [General availability: Application Insights in China North 3 and China East 3](https://azure.microsoft.com/en-us/updates/general-availability-application-insight-in-china-north-3-and-china-east-3/)
-- [General availability: Next hop IP support for Route Server](https://azure.microsoft.com/en-us/updates/general-availability-next-hop-ip-support-for-route-server/)
-- [Public preview: AMD-based confidential VMs for Azure Kubernetes Service &lpar;AKS&rpar;](https://azure.microsoft.com/en-us/updates/public-preview-amdbased-confidential-vms-for-azure-kubernetes-service-aks/)
-- [Generally available: US West 3 price adjustment](https://azure.microsoft.com/en-us/updates/generally-available-us-west-3-price-adjustment/)
-- [Azure StorSimple 8000/1200 series will no longer be supported starting 31st December 2022](https://azure.microsoft.com/en-us/updates/storsimpleeol/)
-- [Generally available: Azure Public IPv6 offerings are free as of July 31](https://azure.microsoft.com/en-us/updates/azure-public-ipv6-offerings-are-free-as-of-july-31/)
+- [Azure SQL—Public preview updates for early August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-august-2022/)
+- [Public preview: Migration tool feature with Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-migration-tool-feature-with-azure-database-for-postgresql-flexible-server/)
+- [Generally available: Audit log for continuous mode with Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/generally-available-audit-log-for-continuous-mode-with-azure-cosmos-db/)
+- [Public preview: RedisJSON available in Azure Cache for Redis Enterprise](https://azure.microsoft.com/en-us/updates/public-preview-redisjson-available-in-azure-cache-for-redis-enterprise/)
+- [Public preview: Azure Load Testing in West US 2](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-west-us-2/)
+- [Public preview: Policy blocking the deployment of vulnerable images](https://azure.microsoft.com/en-us/updates/public-preview-policy-blocking-the-deployment-of-vulnerable-images/)
+- [Generally available: AKS node pool user start/stop feature](https://azure.microsoft.com/en-us/updates/generally-available-aks-node-pool-user-startstop-feature/)
+- [Generally available: FIPS compliant nodes for Windows in AKS](https://azure.microsoft.com/en-us/updates/generally-available-fips-compliant-nodes-for-windows-in-aks/)
+- [General availability: Azure App Service Environment v3 support for custom domain suffix](https://azure.microsoft.com/en-us/updates/general-availability-azure-app-service-environment-v3-support-for-custom-domain-suffix/)
+- [Public preview: .NET 7 support in Linux Consumption Plan](https://azure.microsoft.com/en-us/updates/public-preview-net-7-support-in-linux-consumption-plan/)
 <!-- azure_update:END -->   
 
 
