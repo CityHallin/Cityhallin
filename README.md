@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Retirement of Computer Vision API v3.2 previews](https://azure.microsoft.com/en-us/updates/retirement-of-computer-vision-api-v32-previews-2/)
 - [Azure SQL—Public preview updates for early August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-august-2022/)
 - [Public preview: Migration tool feature with Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-migration-tool-feature-with-azure-database-for-postgresql-flexible-server/)
 - [Generally available: Audit log for continuous mode with Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/generally-available-audit-log-for-continuous-mode-with-azure-cosmos-db/)
@@ -98,7 +99,6 @@
 - [Generally available: AKS node pool user start/stop feature](https://azure.microsoft.com/en-us/updates/generally-available-aks-node-pool-user-startstop-feature/)
 - [Generally available: FIPS compliant nodes for Windows in AKS](https://azure.microsoft.com/en-us/updates/generally-available-fips-compliant-nodes-for-windows-in-aks/)
 - [General availability: Azure App Service Environment v3 support for custom domain suffix](https://azure.microsoft.com/en-us/updates/general-availability-azure-app-service-environment-v3-support-for-custom-domain-suffix/)
-- [Public preview: .NET 7 support in Linux Consumption Plan](https://azure.microsoft.com/en-us/updates/public-preview-net-7-support-in-linux-consumption-plan/)
 <!-- azure_update:END -->   
 
 
