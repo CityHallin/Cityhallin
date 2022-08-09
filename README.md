@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Upgrade VMware VMs protected by Site Recovery to modernized experience](https://azure.microsoft.com/en-us/updates/azure-site-recovery-move-from-classic-to-modernized-experience-for-disaster-recovery-of-vmware-machines/)
+- [Public preview: Update management center in Azure](https://azure.microsoft.com/en-us/updates/public-preview-update-management-center-in-azure/)
+- [Public preview: Serverless SQL for Azure Databricks](https://azure.microsoft.com/en-us/updates/public-preview-serverless-sql-for-azure-databricks/)
+- [Public preview: Azure Dedicated Host restart](https://azure.microsoft.com/en-us/updates/adh-host-restart-preview/)
+- [General availability: Azure Lab Services August 2022 update](https://azure.microsoft.com/en-us/updates/general-availability-azure-lab-services-august-2022-update/)
 - [Retirement of Computer Vision API v3.2 previews](https://azure.microsoft.com/en-us/updates/retirement-of-computer-vision-api-v32-previews-2/)
 - [Azure SQL—Public preview updates for early August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-early-august-2022/)
 - [Public preview: Migration tool feature with Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-migration-tool-feature-with-azure-database-for-postgresql-flexible-server/)
 - [Generally available: Audit log for continuous mode with Azure Cosmos DB](https://azure.microsoft.com/en-us/updates/generally-available-audit-log-for-continuous-mode-with-azure-cosmos-db/)
 - [Public preview: RedisJSON available in Azure Cache for Redis Enterprise](https://azure.microsoft.com/en-us/updates/public-preview-redisjson-available-in-azure-cache-for-redis-enterprise/)
-- [Public preview: Azure Load Testing in West US 2](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-west-us-2/)
-- [Public preview: Policy blocking the deployment of vulnerable images](https://azure.microsoft.com/en-us/updates/public-preview-policy-blocking-the-deployment-of-vulnerable-images/)
-- [Generally available: AKS node pool user start/stop feature](https://azure.microsoft.com/en-us/updates/generally-available-aks-node-pool-user-startstop-feature/)
-- [Generally available: FIPS compliant nodes for Windows in AKS](https://azure.microsoft.com/en-us/updates/generally-available-fips-compliant-nodes-for-windows-in-aks/)
-- [General availability: Azure App Service Environment v3 support for custom domain suffix](https://azure.microsoft.com/en-us/updates/general-availability-azure-app-service-environment-v3-support-for-custom-domain-suffix/)
 <!-- azure_update:END -->   
 
 
