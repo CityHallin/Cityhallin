@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Private endpoint network security group support](https://azure.microsoft.com/en-us/updates/general-availability-of-private-endpoint-network-security-group-support/)
 - [Public preview: Microsoft Dev Box](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/)
 - [General availability: Microsoft Azure available from new cloud region in Qatar](https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
 - [Generally available: Azure Site Recovery update rollup 63 - August 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-63-august-2022/)
@@ -98,7 +99,6 @@
 - [Public preview: Serverless SQL for Azure Databricks](https://azure.microsoft.com/en-us/updates/public-preview-serverless-sql-for-azure-databricks/)
 - [Public preview: Azure Dedicated Host restart](https://azure.microsoft.com/en-us/updates/adh-host-restart-preview/)
 - [General availability: Azure Lab Services August 2022 update](https://azure.microsoft.com/en-us/updates/general-availability-azure-lab-services-august-2022-update/)
-- [Retirement of Computer Vision API v3.2 previews](https://azure.microsoft.com/en-us/updates/retirement-of-computer-vision-api-v32-previews-2/)
 <!-- azure_update:END -->   
 
 
