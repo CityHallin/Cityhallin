@@ -89,6 +89,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Private endpoint user-defined routes support](https://azure.microsoft.com/en-us/updates/general-availability-of-private-endpoint-udr-support/)
+- [Generally available: Azure Red Hat OpenShift new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-new-regions/)
 - [General availability: Private endpoint network security group support](https://azure.microsoft.com/en-us/updates/general-availability-of-private-endpoint-network-security-group-support/)
 - [Public preview: Microsoft Dev Box](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/)
 - [General availability: Microsoft Azure available from new cloud region in Qatar](https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
@@ -97,8 +99,6 @@
 - [General availability: Upgrade VMware VMs protected by Site Recovery to modernized experience](https://azure.microsoft.com/en-us/updates/azure-site-recovery-move-from-classic-to-modernized-experience-for-disaster-recovery-of-vmware-machines/)
 - [Public preview: Update management center in Azure](https://azure.microsoft.com/en-us/updates/public-preview-update-management-center-in-azure/)
 - [Public preview: Serverless SQL for Azure Databricks](https://azure.microsoft.com/en-us/updates/public-preview-serverless-sql-for-azure-databricks/)
-- [Public preview: Azure Dedicated Host restart](https://azure.microsoft.com/en-us/updates/adh-host-restart-preview/)
-- [General availability: Azure Lab Services August 2022 update](https://azure.microsoft.com/en-us/updates/general-availability-azure-lab-services-august-2022-update/)
 <!-- azure_update:END -->   
 
 
