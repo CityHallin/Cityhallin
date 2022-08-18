@@ -89,16 +89,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [General availability: Private endpoint user-defined routes support](https://azure.microsoft.com/en-us/updates/general-availability-of-private-endpoint-udr-support/)
-- [Generally available: Azure Red Hat OpenShift new regions](https://azure.microsoft.com/en-us/updates/generally-available-azure-red-hat-openshift-new-regions/)
-- [General availability: Private endpoint network security group support](https://azure.microsoft.com/en-us/updates/general-availability-of-private-endpoint-network-security-group-support/)
-- [Public preview: Microsoft Dev Box](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-dev-box/)
-- [General availability: Microsoft Azure available from new cloud region in Qatar](https://azure.microsoft.com/en-us/updates/general-availability-microsoft-azure-available-from-new-cloud-region-in-qatar/)
-- [Generally available: Azure Site Recovery update rollup 63 - August 2022](https://azure.microsoft.com/en-us/updates/generally-available-azure-site-recovery-update-rollup-63-august-2022/)
-- [Generally available: Azure Databricks in West US 3](https://azure.microsoft.com/en-us/updates/generally-available-azure-databricks-in-west-us-3/)
-- [General availability: Upgrade VMware VMs protected by Site Recovery to modernized experience](https://azure.microsoft.com/en-us/updates/azure-site-recovery-move-from-classic-to-modernized-experience-for-disaster-recovery-of-vmware-machines/)
-- [Public preview: Update management center in Azure](https://azure.microsoft.com/en-us/updates/public-preview-update-management-center-in-azure/)
-- [Public preview: Serverless SQL for Azure Databricks](https://azure.microsoft.com/en-us/updates/public-preview-serverless-sql-for-azure-databricks/)
+- [General availability: Network security groups support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
+- [General availability: User-defined routes support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-user-defined-routes-support-for-private-endpoints/)
+- [Public preview: Microsoft Azure Load Testing supports private endpoints testing](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
+- [Azure SQL—General availability updates for mid-August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midaugust-2022/)
+- [Generally available: Hierarchical forecasting for Azure Machine Learning](https://azure.microsoft.com/en-us/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/)
+- [Azure Machine Learning—Public preview updates for August 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-august-2022/)
+- [Public preview: Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql/)
+- [General availability: Server logs for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-server-logs-for-azure-database-for-mysql-flexible-server/)
+- [General availability: Reserved instance pricing for Azure Cache for Redis Enterprise](https://azure.microsoft.com/en-us/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
+- [Public preview: Backup database with S3-compatible storage for Arc-enabled SQL MI](https://azure.microsoft.com/en-us/updates/public-preview-backup-database-with-s3compatible-storage-for-arcenabled-sql-mi/)
 <!-- azure_update:END -->   
 
 
