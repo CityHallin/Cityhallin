@@ -89,6 +89,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: JetStream DR for AVS supports Azure NetApp Files datastores](https://azure.microsoft.com/en-us/updates/generally-available-jetstream-disaster-recovery-for-azure-vmware-solution-now-supports-azure-netapp-files-datastores/)
 - [General availability: Network security groups support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
 - [General availability: User-defined routes support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-user-defined-routes-support-for-private-endpoints/)
 - [Public preview: Microsoft Azure Load Testing supports private endpoints testing](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
@@ -98,7 +99,6 @@
 - [Public preview: Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql/)
 - [General availability: Server logs for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-server-logs-for-azure-database-for-mysql-flexible-server/)
 - [General availability: Reserved instance pricing for Azure Cache for Redis Enterprise](https://azure.microsoft.com/en-us/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
-- [Public preview: Backup database with S3-compatible storage for Arc-enabled SQL MI](https://azure.microsoft.com/en-us/updates/public-preview-backup-database-with-s3compatible-storage-for-arcenabled-sql-mi/)
 <!-- azure_update:END -->   
 
 
