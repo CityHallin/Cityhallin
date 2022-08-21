@@ -13,13 +13,14 @@
 ![](https://img.shields.io/badge/TOOLS-Ansible-red)
 ![](https://img.shields.io/badge/TOOLS-Azure_DevOPS-ffdd00)
 ![](https://img.shields.io/badge/TOOLS-Github-382009)
+![](https://img.shields.io/badge/TOOLS-Gitlab-orange)
 ![](https://img.shields.io/badge/TOOLS-PowerShell-blue)
 ![](https://img.shields.io/badge/TOOLS-Terraform-blueviolet)
 ![](https://img.shields.io/badge/EDITOR-VSCode-blue)
 
 
 ## 🐱‍👤 Platforms
-![](https://img.shields.io/badge/PLATFORM-Azure-blue)
+![](https://img.shields.io/badge/PLATFORM-Microsoft_Azure-blue)
 ![](https://img.shields.io/badge/PLATFORM-Dell_PowerEdge-green)
 ![](https://img.shields.io/badge/PLATFORM-HPE_Nimble-lightgreen)
 ![](https://img.shields.io/badge/PLATFORM-HPE_ProLiant-blueviolet)
