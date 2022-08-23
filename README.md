@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: UAE North Availability Zones](https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/)
+- [Public preview: Four new features in no code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
+- [Generally available: Public IP Capability for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/)
+- [Generally available: vRealize Log Insight Cloud with Azure VMware Solution integration](https://azure.microsoft.com/en-us/updates/generally-available-vrealize-log-insight-cloud-with-azure-vmware-solution-integration/)
+- [Generally available: Azure VMware Solution now in Sweden Central](https://azure.microsoft.com/en-us/updates/generally-available-azure-vmware-solution-now-in-sweden-central/)
 - [Generally available: JetStream DR for AVS supports Azure NetApp Files datastores](https://azure.microsoft.com/en-us/updates/generally-available-jetstream-disaster-recovery-for-azure-vmware-solution-now-supports-azure-netapp-files-datastores/)
 - [General availability: Network security groups support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
 - [General availability: User-defined routes support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-user-defined-routes-support-for-private-endpoints/)
 - [Public preview: Microsoft Azure Load Testing supports private endpoints testing](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
 - [Azure SQL—General availability updates for mid-August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midaugust-2022/)
-- [Generally available: Hierarchical forecasting for Azure Machine Learning](https://azure.microsoft.com/en-us/updates/generally-available-hierarchical-forecasting-for-azure-machine-learning/)
-- [Azure Machine Learning—Public preview updates for August 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-august-2022/)
-- [Public preview: Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-postgresql/)
-- [General availability: Server logs for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-server-logs-for-azure-database-for-mysql-flexible-server/)
-- [General availability: Reserved instance pricing for Azure Cache for Redis Enterprise](https://azure.microsoft.com/en-us/updates/general-availability-reserved-instance-pricing-for-azure-cache-for-redis-enterprise/)
 <!-- azure_update:END -->   
 
 
