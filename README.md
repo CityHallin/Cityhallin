@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Azure Data Explorer supports native ingestion from Amazon S3](https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-supports-native-ingestion-from-amazon-s3/)
 - [Generally available: UAE North Availability Zones](https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/)
 - [Public preview: Four new features in no code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
 - [Generally available: Public IP Capability for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/)
@@ -99,7 +100,6 @@
 - [General availability: Network security groups support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
 - [General availability: User-defined routes support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-user-defined-routes-support-for-private-endpoints/)
 - [Public preview: Microsoft Azure Load Testing supports private endpoints testing](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-load-testing-supports-private-endpoints-testing/)
-- [Azure SQL—General availability updates for mid-August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-midaugust-2022/)
 <!-- azure_update:END -->   
 
 
