@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Azure Arc-enabled servers in Azure China](https://azure.microsoft.com/en-us/updates/public-preview-arc-servers-azure-china/)
+- [Generally available: Azure Arc-enabled servers in South Africa North](https://azure.microsoft.com/en-us/updates/ga-arc-server-south-africa-north/)
+- [Public preview: Ephemeral OS disks supports host-based encryption using customer managed key](https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/)
+- [Generally available: IoT Edge 1.4](https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/)
 - [Generally available: Prevent a lifecycle management policy from archiving recently rehydrated blobs](https://azure.microsoft.com/en-us/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
 - [General availability: ExpressRoute IPv6 Support for Global Reach](https://azure.microsoft.com/en-us/updates/general-availability-expressroute-ipv6-support-for-global-reach/)
 - [General availability: Azure Data Explorer supports native ingestion from Amazon S3](https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-supports-native-ingestion-from-amazon-s3/)
 - [Generally available: UAE North Availability Zones](https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/)
 - [Public preview: Four new features in no code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
 - [Generally available: Public IP Capability for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/)
-- [Generally available: vRealize Log Insight Cloud with Azure VMware Solution integration](https://azure.microsoft.com/en-us/updates/generally-available-vrealize-log-insight-cloud-with-azure-vmware-solution-integration/)
-- [Generally available: Azure VMware Solution now in Sweden Central](https://azure.microsoft.com/en-us/updates/generally-available-azure-vmware-solution-now-in-sweden-central/)
-- [Generally available: JetStream DR for AVS supports Azure NetApp Files datastores](https://azure.microsoft.com/en-us/updates/generally-available-jetstream-disaster-recovery-for-azure-vmware-solution-now-supports-azure-netapp-files-datastores/)
-- [General availability: Network security groups support for private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-of-network-security-groups-support-for-private-endpoints/)
 <!-- azure_update:END -->   
 
 
