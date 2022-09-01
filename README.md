@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Azure Arc-enabled servers in Azure China](https://azure.microsoft.com/en-us/updates/public-preview-arc-servers-azure-china/)
-- [Generally available: Azure Arc-enabled servers in South Africa North](https://azure.microsoft.com/en-us/updates/ga-arc-server-south-africa-north/)
-- [Public preview: Ephemeral OS disks supports host-based encryption using customer managed key](https://azure.microsoft.com/en-us/updates/public-preview-ephemeral-os-disks-supports-hostbased-encryption-using-customer-managed-key/)
-- [Generally available: IoT Edge 1.4](https://azure.microsoft.com/en-us/updates/generally-available-iot-edge-14-lts/)
-- [Generally available: Prevent a lifecycle management policy from archiving recently rehydrated blobs](https://azure.microsoft.com/en-us/updates/generally-available-prevent-a-lifecycle-management-policy-from-archiving-a-recently-rehydrated-blob/)
-- [General availability: ExpressRoute IPv6 Support for Global Reach](https://azure.microsoft.com/en-us/updates/general-availability-expressroute-ipv6-support-for-global-reach/)
-- [General availability: Azure Data Explorer supports native ingestion from Amazon S3](https://azure.microsoft.com/en-us/updates/general-availability-azure-data-explorer-supports-native-ingestion-from-amazon-s3/)
-- [Generally available: UAE North Availability Zones](https://azure.microsoft.com/en-us/updates/generally-available-uae-north-availability-zones/)
-- [Public preview: Four new features in no code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/public-preview-4-new-features-in-no-code-editor-in-azure-event-hubs/)
-- [Generally available: Public IP Capability for Azure VMware Solution](https://azure.microsoft.com/en-us/updates/generally-available-public-ip-capability-for-azure-vmware-solution/)
+- [General availability: Managed identity to connect Azure Cache for Redis to storage](https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/)
+- [Public preview: Node.js 18 in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-nodejs-18-in-azure-functions/)
+- [Azure SQL—General availability updates for late August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-august-2022/)
+- [Azure SQL—Public preview updates for late August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-august-2022/)
+- [Generally available: Unity Catalog for Azure Databricks](https://azure.microsoft.com/en-us/updates/generally-available-unity-catalog-for-azure-databricks/)
+- [General availability: Azure Cosmos DB integrated cache](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-integrated-cache/)
+- [Public preview: App Configuration references for App Service and Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
+- [Generally available: Azure Functions extension for Event Grid blob trigger](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
+- [Public preview: Azure Storage Explorer support for Azure App Configuration resources](https://azure.microsoft.com/en-us/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
+- [Generally available: Enterprise-grade edge for Azure Static Web Apps](https://azure.microsoft.com/en-us/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
 <!-- azure_update:END -->   
 
 
