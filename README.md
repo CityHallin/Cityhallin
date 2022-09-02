@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: New Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
+- [Public preview: Encrypt storage account with cross-tenant customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 - [General availability: Managed identity to connect Azure Cache for Redis to storage](https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/)
 - [Public preview: Node.js 18 in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-nodejs-18-in-azure-functions/)
 - [Azure SQL—General availability updates for late August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-august-2022/)
@@ -98,8 +100,6 @@
 - [General availability: Azure Cosmos DB integrated cache](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-integrated-cache/)
 - [Public preview: App Configuration references for App Service and Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
 - [Generally available: Azure Functions extension for Event Grid blob trigger](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
-- [Public preview: Azure Storage Explorer support for Azure App Configuration resources](https://azure.microsoft.com/en-us/updates/public-preview-azure-storage-explorer-support-for-azure-app-configuration-resources/)
-- [Generally available: Enterprise-grade edge for Azure Static Web Apps](https://azure.microsoft.com/en-us/updates/generally-available-enterprisegrade-edge-for-azure-static-web-apps/)
 <!-- azure_update:END -->   
 
 
