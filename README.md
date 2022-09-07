@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Resource instance rules for access to Azure Storage](https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/)
+- [General availability: Up to 45% performance gains in stream processing](https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/)
+- [General availability: Managed private endpoint support to Synapse SQL output](https://azure.microsoft.com/en-us/updates/asa-synapsesql-pe/)
+- [General availability: Azure Database for PostgreSQL output in Stream Analytics](https://azure.microsoft.com/en-us/updates/asa-postgresql-ga/)
+- [General availability: Authenticate to Service Bus using managed identity](https://azure.microsoft.com/en-us/updates/asa-servicebus-mi-ga/)
+- [Public preview: Stream Analytics no-code editor updates in August 2022](https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/)
+- [Generally available: Azure Data Explorer Kusto Emulator](https://azure.microsoft.com/en-us/updates/kusto-emulator/)
 - [Generally available: New Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 - [Public preview: Encrypt storage account with cross-tenant customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 - [General availability: Managed identity to connect Azure Cache for Redis to storage](https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/)
-- [Public preview: Node.js 18 in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-nodejs-18-in-azure-functions/)
-- [Azure SQL—General availability updates for late August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-august-2022/)
-- [Azure SQL—Public preview updates for late August 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-august-2022/)
-- [Generally available: Unity Catalog for Azure Databricks](https://azure.microsoft.com/en-us/updates/generally-available-unity-catalog-for-azure-databricks/)
-- [General availability: Azure Cosmos DB integrated cache](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-integrated-cache/)
-- [Public preview: App Configuration references for App Service and Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-app-configuration-references-for-app-service-and-azure-functions/)
-- [Generally available: Azure Functions extension for Event Grid blob trigger](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-extension-for-event-grid-blob-trigger/)
 <!-- azure_update:END -->   
 
 
