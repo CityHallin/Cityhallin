@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [In Development: New options to bring your licenses to a partner’s cloud](https://azure.microsoft.com/en-us/updates/new-options-to-bring-your-licenses-to-a-partner-s-cloud/)
 - [Generally available: Resource instance rules for access to Azure Storage](https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/)
 - [General availability: Up to 45% performance gains in stream processing](https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/)
 - [General availability: Managed private endpoint support to Synapse SQL output](https://azure.microsoft.com/en-us/updates/asa-synapsesql-pe/)
@@ -99,7 +100,6 @@
 - [Generally available: Azure Data Explorer Kusto Emulator](https://azure.microsoft.com/en-us/updates/kusto-emulator/)
 - [Generally available: New Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
 - [Public preview: Encrypt storage account with cross-tenant customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
-- [General availability: Managed identity to connect Azure Cache for Redis to storage](https://azure.microsoft.com/en-us/updates/general-availability-managed-identity-to-connect-azure-cache-for-redis-to-storage/)
 <!-- azure_update:END -->   
 
 
