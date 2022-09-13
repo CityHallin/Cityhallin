@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
+- [General availability: Standard network features for Azure NetApp Files](https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-for-azure-netapp-files/)
 - [In Development: New options to bring your licenses to a partner’s cloud](https://azure.microsoft.com/en-us/updates/new-options-to-bring-your-licenses-to-a-partner-s-cloud/)
 - [Generally available: Resource instance rules for access to Azure Storage](https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/)
 - [General availability: Up to 45% performance gains in stream processing](https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/)
@@ -98,8 +100,6 @@
 - [General availability: Authenticate to Service Bus using managed identity](https://azure.microsoft.com/en-us/updates/asa-servicebus-mi-ga/)
 - [Public preview: Stream Analytics no-code editor updates in August 2022](https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/)
 - [Generally available: Azure Data Explorer Kusto Emulator](https://azure.microsoft.com/en-us/updates/kusto-emulator/)
-- [Generally available: New Azure Virtual Machines with Ampere Altra Arm-based processors](https://azure.microsoft.com/en-us/updates/generally-available-new-azure-virtual-machines-with-ampere-altra-armbased-processors/)
-- [Public preview: Encrypt storage account with cross-tenant customer-managed keys](https://azure.microsoft.com/en-us/updates/public-preview-encrypt-storage-account-with-crosstenant-customer-managed-keys/)
 <!-- azure_update:END -->   
 
 
