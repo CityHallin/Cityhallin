@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [General availability: Azure Sphere OS version 22.09 expected on September 22](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2209-expected-on-september-22/)
-- [Generally available: Azure Dedicated Host support for Ultra Disk Storage](https://azure.microsoft.com/en-us/updates/generally-available-azure-dedicated-host-support-for-ultra-ssd/)
-- [General availability: Standard network features for Azure NetApp Files](https://azure.microsoft.com/en-us/updates/general-availability-standard-network-features-for-azure-netapp-files/)
-- [In Development: New options to bring your licenses to a partner’s cloud](https://azure.microsoft.com/en-us/updates/new-options-to-bring-your-licenses-to-a-partner-s-cloud/)
-- [Generally available: Resource instance rules for access to Azure Storage](https://azure.microsoft.com/en-us/updates/storage-resource-instance-rules-ga/)
-- [General availability: Up to 45% performance gains in stream processing](https://azure.microsoft.com/en-us/updates/asa-cpu-perf-increase/)
-- [General availability: Managed private endpoint support to Synapse SQL output](https://azure.microsoft.com/en-us/updates/asa-synapsesql-pe/)
-- [General availability: Azure Database for PostgreSQL output in Stream Analytics](https://azure.microsoft.com/en-us/updates/asa-postgresql-ga/)
-- [General availability: Authenticate to Service Bus using managed identity](https://azure.microsoft.com/en-us/updates/asa-servicebus-mi-ga/)
-- [Public preview: Stream Analytics no-code editor updates in August 2022](https://azure.microsoft.com/en-us/updates/public-preview-stream-analytics-nocode-editor-updates-in-august-2022/)
+- [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
+- [Public preview: API Server VNET Integration for AKS private cluster](https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/)
+- [General availability: Read replica for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/)
+- [General availability: Azure Database for MySQL - Flexible Server data encryption with CMK](https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk/)
+- [Generally available: Fast restore for Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/)
+- [Public preview: Azure Database for MySQL - Flexible Server major version upgrade](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/)
+- [Generally available: Multi-instance GPU support in AKS](https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/)
+- [Public preview: Azure Load Testing in UK South](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-uk-south/)
+- [Public preview: Operation abort](https://azure.microsoft.com/en-us/updates/public-preview-operation-abort/)
+- [Public preview: Azure Network Policy Manager for Windows server 2022 in AKS](https://azure.microsoft.com/en-us/updates/public-preview-windows-network-policy-manager-for-windows-server-2022-in-aks/)
 <!-- azure_update:END -->   
 
 
