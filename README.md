@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Resizing of peered virtual networks](https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/)
+- [General availability: Azure Media Services low-latency live streaming](https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/)
 - [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
 - [Public preview: API Server VNET Integration for AKS private cluster](https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/)
 - [General availability: Read replica for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/)
@@ -98,8 +100,6 @@
 - [Public preview: Azure Database for MySQL - Flexible Server major version upgrade](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/)
 - [Generally available: Multi-instance GPU support in AKS](https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/)
 - [Public preview: Azure Load Testing in UK South](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-uk-south/)
-- [Public preview: Operation abort](https://azure.microsoft.com/en-us/updates/public-preview-operation-abort/)
-- [Public preview: Azure Network Policy Manager for Windows server 2022 in AKS](https://azure.microsoft.com/en-us/updates/public-preview-windows-network-policy-manager-for-windows-server-2022-in-aks/)
 <!-- azure_update:END -->   
 
 
