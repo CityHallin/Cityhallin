@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [On 1 October 2025, the Log Analytics alert API in Azure Monitor will be retired](https://azure.microsoft.com/en-us/updates/on-1-october-2025-the-log-analytics-alert-api-in-azure-monitor-will-be-retired/)
 - [Generally available: Resizing of peered virtual networks](https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/)
 - [General availability: Azure Media Services low-latency live streaming](https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/)
 - [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
@@ -99,7 +100,6 @@
 - [Generally available: Fast restore for Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/)
 - [Public preview: Azure Database for MySQL - Flexible Server major version upgrade](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/)
 - [Generally available: Multi-instance GPU support in AKS](https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/)
-- [Public preview: Azure Load Testing in UK South](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-in-uk-south/)
 <!-- azure_update:END -->   
 
 
