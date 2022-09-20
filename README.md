@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: New KMS DNS in Azure China Cloud](https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-china-cloud/)
+- [Generally available: Azure Ultra Disk Storage in Qatar Central](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/)
 - [On 1 October 2025, the Log Analytics alert API in Azure Monitor will be retired](https://azure.microsoft.com/en-us/updates/on-1-october-2025-the-log-analytics-alert-api-in-azure-monitor-will-be-retired/)
 - [Generally available: Resizing of peered virtual networks](https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/)
 - [General availability: Azure Media Services low-latency live streaming](https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/)
@@ -98,8 +100,6 @@
 - [General availability: Read replica for Azure Database for MySQL - Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-read-replica-for-azure-database-for-mysql-flexible-server/)
 - [General availability: Azure Database for MySQL - Flexible Server data encryption with CMK](https://azure.microsoft.com/en-us/updates/general-availability-azure-database-for-mysql-flexible-server-data-encryption-with-cmk/)
 - [Generally available: Fast restore for Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/generally-available-fast-restore-for-azure-database-for-postgresql-flexible-server/)
-- [Public preview: Azure Database for MySQL - Flexible Server major version upgrade](https://azure.microsoft.com/en-us/updates/public-preview-azure-database-for-mysql-flexible-server-major-version-upgrade/)
-- [Generally available: Multi-instance GPU support in AKS](https://azure.microsoft.com/en-us/updates/generally-available-multiinstance-gpu-support-in-aks/)
 <!-- azure_update:END -->   
 
 
