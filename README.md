@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Encryption scopes on hierarchical namespace enabled storage accounts](https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/)
 - [General availability: Improvements to Azure Web Application Firewall &lpar;WAF&rpar; custom rules](https://azure.microsoft.com/en-us/updates/general-availability-improvements-to-web-application-firewall-waf-custom-rules/)
 - [General availability &lpar;update&rpar;: Improved Append Capability on Immutable Storage for Blob Storage](https://azure.microsoft.com/en-us/updates/immutable-storage-for-blob-storage-now-includes-allow-appends-for-block-and-append-blobs-capability/)
 - [Generally available: Immutable storage for Azure Data Lake Storage](https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-is-now-generally-available/)
@@ -99,7 +100,6 @@
 - [Generally available: Resizing of peered virtual networks](https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/)
 - [General availability: Azure Media Services low-latency live streaming](https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/)
 - [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
-- [Public preview: API Server VNET Integration for AKS private cluster](https://azure.microsoft.com/en-us/updates/public-preview-api-server-vnet-integration-for-aks-private-cluster/)
 <!-- azure_update:END -->   
 
 
