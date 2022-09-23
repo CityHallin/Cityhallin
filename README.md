@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Expanded feature regional availability for Azure NetApp Files backup](https://azure.microsoft.com/en-us/updates/public-preview-expanded-feature-regional-availability-for-azure-netapp-files-backup/)
+- [Public preview: Customer initiated storage account conversion](https://azure.microsoft.com/en-us/updates/public-preview-customer-initiated-storage-account-redundancy-conversion/)
 - [Public preview: Encryption scopes on hierarchical namespace enabled storage accounts](https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/)
 - [General availability: Improvements to Azure Web Application Firewall &lpar;WAF&rpar; custom rules](https://azure.microsoft.com/en-us/updates/general-availability-improvements-to-web-application-firewall-waf-custom-rules/)
 - [General availability &lpar;update&rpar;: Improved Append Capability on Immutable Storage for Blob Storage](https://azure.microsoft.com/en-us/updates/immutable-storage-for-blob-storage-now-includes-allow-appends-for-block-and-append-blobs-capability/)
 - [Generally available: Immutable storage for Azure Data Lake Storage](https://azure.microsoft.com/en-us/updates/immutable-storage-for-azure-data-lake-storage-is-now-generally-available/)
-- [Generally available: Azure Ultra Disk Storage in Qatar Central](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/)
 - [Generally available: New KMS DNS in Azure China Cloud](https://azure.microsoft.com/en-us/updates/generally-available-new-kms-dns-in-azure-china-cloud/)
+- [Generally available: Azure Ultra Disk Storage in Qatar Central](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-qatar-central/)
 - [On 1 October 2025, the Log Analytics alert API in Azure Monitor will be retired](https://azure.microsoft.com/en-us/updates/on-1-october-2025-the-log-analytics-alert-api-in-azure-monitor-will-be-retired/)
 - [Generally available: Resizing of peered virtual networks](https://azure.microsoft.com/en-us/updates/resizing-of-peered-virtual-networks-is-now-generally-available/)
-- [General availability: Azure Media Services low-latency live streaming](https://azure.microsoft.com/en-us/updates/general-availability-azure-media-services-lowlatency-live-streaming/)
-- [Generally available: Reserved capacity for Azure Backup Storage](https://azure.microsoft.com/en-us/updates/reserved-capacity-pricing-for-backup-storage/)
 <!-- azure_update:END -->   
 
 
