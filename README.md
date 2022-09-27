@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Azure NetApp Files new regions and cross-region replication](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-new-regions-and-crossregion-replication/)
 - [Azure unmanaged disks will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-unmanaged-disks-will-be-retired-on-30-september-2025/)
 - [Support for PostgreSQL version 11 in Azure Database PostgreSQL Single Server ends on 9 November 2024](https://azure.microsoft.com/en-us/updates/singlepg11-retirement/)
 - [Support for PostgreSQL version 11 in Azure Database PostgreSQL Flexible Server ends on 9 November 2024](https://azure.microsoft.com/en-us/updates/flexpg11-retirement/)
@@ -99,7 +100,6 @@
 - [Public preview: Customer initiated storage account conversion](https://azure.microsoft.com/en-us/updates/public-preview-customer-initiated-storage-account-redundancy-conversion/)
 - [Public preview: Encryption scopes on hierarchical namespace enabled storage accounts](https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/)
 - [General availability: Improvements to Azure Web Application Firewall &lpar;WAF&rpar; custom rules](https://azure.microsoft.com/en-us/updates/general-availability-improvements-to-web-application-firewall-waf-custom-rules/)
-- [General availability &lpar;update&rpar;: Improved Append Capability on Immutable Storage for Blob Storage](https://azure.microsoft.com/en-us/updates/immutable-storage-for-blob-storage-now-includes-allow-appends-for-block-and-append-blobs-capability/)
 <!-- azure_update:END -->   
 
 
