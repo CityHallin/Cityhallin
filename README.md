@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [General availability: Azure Policy built-in definitions for Azure NetApp Files](https://azure.microsoft.com/en-us/updates/general-availability-azure-policy-builtin-definitions-for-azure-netapp-files/)
-- [General availability: Azure NetApp Files new regions and cross-region replication](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-new-regions-and-crossregion-replication/)
-- [Azure unmanaged disks will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-unmanaged-disks-will-be-retired-on-30-september-2025/)
-- [Support for PostgreSQL version 11 in Azure Database PostgreSQL Single Server ends on 9 November 2024](https://azure.microsoft.com/en-us/updates/singlepg11-retirement/)
-- [Support for PostgreSQL version 11 in Azure Database PostgreSQL Flexible Server ends on 9 November 2024](https://azure.microsoft.com/en-us/updates/flexpg11-retirement/)
-- [Continuous delivery setting of Azure VM will be retired on 31 March 2023 – Use Azure DevOps to create pipelines](https://azure.microsoft.com/en-us/updates/retirement-notice-continuous-delivery-setting-of-vms-to-be-retired-by-31-march-2023/)
-- [Deployment Center setting of Azure Kubernetes service &lpar;AKS&rpar; will be retired on 31 March 2023 – Use Automated Deployments to create pipelines](https://azure.microsoft.com/en-us/updates/deployment-center-setting-of-azure-kubernetes-service-aks-will-be-retired-on-31-march-2023-use-automated-deployments-to-creat/)
-- [Public preview: Expanded feature regional availability for Azure NetApp Files backup](https://azure.microsoft.com/en-us/updates/public-preview-expanded-feature-regional-availability-for-azure-netapp-files-backup/)
-- [Public preview: Customer initiated storage account conversion](https://azure.microsoft.com/en-us/updates/public-preview-customer-initiated-storage-account-redundancy-conversion/)
-- [Public preview: Encryption scopes on hierarchical namespace enabled storage accounts](https://azure.microsoft.com/en-us/updates/public-preview-encryption-scopes-on-hierarchical-namespace-enabled-storage-accounts/)
+- [Azure SQL—General availability updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/)
+- [General availability: Azure SQL Database Hyperscale reverse migration to general purpose tier](https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/)
+- [Azure SQL—Public preview updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/)
+- [General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/)
+- [Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/)
+- [Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/)
+- [Generally available: Azure Functions .NET Framework support in the isolated worker model](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-net-framework-support-in-the-isolated-worker-model/)
+- [Public preview: Java 17 Support in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-java-17-support-in-azure-functions/)
+- [Public preview: Automatic backup for App Service Environment V2 and V3](https://azure.microsoft.com/en-us/updates/public-preview-automatic-backup-for-app-service-environment-v2-and-v3/)
+- [Generally available: Backup and restore updates for App Service](https://azure.microsoft.com/en-us/updates/generally-available-backup-and-restore-updates-for-app-service/)
 <!-- azure_update:END -->   
 
 
