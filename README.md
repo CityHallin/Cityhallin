@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Policy analytics for Azure Firewall](https://azure.microsoft.com/en-us/updates/public-preview-policy-analytics-for-azure-firewall/)
+- [General availability: ExpressRoute FastPath support for Vnet peering and UDRs](https://azure.microsoft.com/en-us/updates/general-availability-expressroute-fastpath-support-for-virtual-network-vnet-peering-and-user-defined-routes-udrs-2/)
 - [Azure SQL—General availability updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/)
 - [General availability: Azure SQL Database Hyperscale reverse migration to general purpose tier](https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/)
 - [Azure SQL—Public preview updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/)
@@ -98,8 +100,6 @@
 - [Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/)
 - [Generally available: Azure Functions .NET Framework support in the isolated worker model](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-net-framework-support-in-the-isolated-worker-model/)
 - [Public preview: Java 17 Support in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-java-17-support-in-azure-functions/)
-- [Public preview: Automatic backup for App Service Environment V2 and V3](https://azure.microsoft.com/en-us/updates/public-preview-automatic-backup-for-app-service-environment-v2-and-v3/)
-- [Generally available: Backup and restore updates for App Service](https://azure.microsoft.com/en-us/updates/generally-available-backup-and-restore-updates-for-app-service/)
 <!-- azure_update:END -->   
 
 
