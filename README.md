@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Policy analytics for Azure Firewall](https://azure.microsoft.com/en-us/updates/public-preview-policy-analytics-for-azure-firewall/)
-- [General availability: ExpressRoute FastPath support for Vnet peering and UDRs](https://azure.microsoft.com/en-us/updates/general-availability-expressroute-fastpath-support-for-virtual-network-vnet-peering-and-user-defined-routes-udrs-2/)
-- [Azure SQL—General availability updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-september-2022-2/)
-- [General availability: Azure SQL Database Hyperscale reverse migration to general purpose tier](https://azure.microsoft.com/en-us/updates/general-availability-azure-sql-database-hyperscale-reverse-migration-to-general-purpose-tier/)
-- [Azure SQL—Public preview updates for late September 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-september-2022/)
-- [General availability: Backup and restore in Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/general-availability-backup-and-restore-in-azure-database-for-postgresql-flexible-server/)
-- [Public preview: Azure AD authentication with Azure Database for MySQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-azure-ad-authentication-with-azure-database-for-mysql-flexible-server/)
-- [Generally available: Azure Functions Linux Elastic Premium plan increased maximum scale-out limits](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-linux-elastic-premium-plan-increased-maximum-scaleout-limits-3/)
-- [Generally available: Azure Functions .NET Framework support in the isolated worker model](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-net-framework-support-in-the-isolated-worker-model/)
-- [Public preview: Java 17 Support in Azure Functions](https://azure.microsoft.com/en-us/updates/public-preview-java-17-support-in-azure-functions/)
+- [Azure Batch Low Priority VMs will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/)
+- [Support for PostgreSQL 11 in Azure Database PostgreSQL - Hyperscale &lpar;Citus&rpar; ends on 9 November 2023](https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/)
+- [The application insights Java 2.X SDK will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/)
+- [DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure](https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/)
+- [Azure CycleCloud 7 will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/)
+- [Azure Static Web Apps support for Node 12 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/)
+- [Azure Batch Job/Pool Lifetime Statistics API will be retired on 30 April 2023](https://azure.microsoft.com/en-us/updates/azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023/)
+- [Support for Azure API Management self-hosted gateway version 0 and version 1 ends 1 October 2023](https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023/)
+- [Azure Batch TLS 1.0/1.1 will be retired on 31 March 2023](https://azure.microsoft.com/en-us/updates/azure-batch-tls-1011-will-be-retired-on-31-march-2023/)
+- [Azure Monitor ITSM connector for creating ServiceNow events will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-events-will-be-retired-on-30-september-2025/)
 <!-- azure_update:END -->   
 
 
