@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: Azure Ultra Disk Storage in China North 3](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-china-north-3/)
+- [Azure Machine Learning—General availability updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/)
+- [Azure Machine Learning—Public preview updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/)
+- [General availability: Smart tiering to vault-archive tier for Azure Backup](https://azure.microsoft.com/en-us/updates/general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup/)
 - [Azure Batch Low Priority VMs will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/)
 - [Support for PostgreSQL 11 in Azure Database PostgreSQL - Hyperscale &lpar;Citus&rpar; ends on 9 November 2023](https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/)
 - [The application insights Java 2.X SDK will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/)
 - [DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure](https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/)
 - [Azure CycleCloud 7 will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/)
 - [Azure Static Web Apps support for Node 12 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/)
-- [Azure Batch Job/Pool Lifetime Statistics API will be retired on 30 April 2023](https://azure.microsoft.com/en-us/updates/azure-batch-jobpool-lifetime-statistics-api-will-be-retired-on-30-april-2023/)
-- [Support for Azure API Management self-hosted gateway version 0 and version 1 ends 1 October 2023](https://azure.microsoft.com/en-us/updates/support-for-azure-api-management-selfhosted-gateway-version-0-and-version-1-ends-1-october-2023/)
-- [Azure Batch TLS 1.0/1.1 will be retired on 31 March 2023](https://azure.microsoft.com/en-us/updates/azure-batch-tls-1011-will-be-retired-on-31-march-2023/)
-- [Azure Monitor ITSM connector for creating ServiceNow events will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-monitor-itsm-connector-for-creating-servicenow-events-will-be-retired-on-30-september-2025/)
 <!-- azure_update:END -->   
 
 
