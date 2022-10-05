@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Azure Firewall Basic](https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/)
+- [Generally available: Query Store hints Azure SQL Database, Azure SQL Managed Instance](https://azure.microsoft.com/en-us/updates/query-store-hints-for-sql-db-and-sql-mi-ga/)
 - [Generally available: Azure Ultra Disk Storage in China North 3](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-china-north-3/)
 - [Azure Machine Learning—General availability updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/)
 - [Azure Machine Learning—Public preview updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/)
@@ -98,8 +100,6 @@
 - [Support for PostgreSQL 11 in Azure Database PostgreSQL - Hyperscale &lpar;Citus&rpar; ends on 9 November 2023](https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/)
 - [The application insights Java 2.X SDK will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/)
 - [DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure](https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/)
-- [Azure CycleCloud 7 will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/azure-cyclecloud-7-will-be-retired-on-30-september-2023/)
-- [Azure Static Web Apps support for Node 12 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsnode12deprecation/)
 <!-- azure_update:END -->   
 
 
