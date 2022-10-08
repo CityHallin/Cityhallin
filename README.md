@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Azure Batch Certificates will be retired on 29 February 2024](https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/)
+- [Azure Static Web Apps extended support for .NET Core 3.1 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/)
+- [Desired state configuration VM Extension for Linux, and Azure Automation DSC support for Linux, will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/migrate-from-linux-dsc-extension-to-the-guest-configuration-feature-of-azure-policy-by-may-1-2025/)
+- [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023](https://azure.microsoft.com/en-us/updates/action-required-support-for-azure-monitor-for-sap-solutions-classic-resources-will-end-by-31-march-2023/)
+- [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023.](https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/)
+- [Migrate to Azure Monitor VM insights by 30 September 2025 when Service Map will be retired](https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/)
+- [Azure classic resource providers will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/)
+- [Upgrade to Standard SKU public IP addresses in Azure by 30 September 2025—Basic SKU will be retired](https://azure.microsoft.com/en-us/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/)
+- [Azure Percept DK Retirement Announcement](https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/)
 - [Public preview: Azure Firewall Basic](https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/)
-- [Generally available: Query Store hints Azure SQL Database, Azure SQL Managed Instance](https://azure.microsoft.com/en-us/updates/query-store-hints-for-sql-db-and-sql-mi-ga/)
-- [Generally available: Azure Ultra Disk Storage in China North 3](https://azure.microsoft.com/en-us/updates/generally-available-azure-ultra-disk-storage-in-china-north-3/)
-- [Azure Machine Learning—General availability updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-general-availability-updates-for-september-2022/)
-- [Azure Machine Learning—Public preview updates for September 2022](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-september-2022/)
-- [General availability: Smart tiering to vault-archive tier for Azure Backup](https://azure.microsoft.com/en-us/updates/general-availability-smart-tiering-to-vaultarchive-tier-for-azure-backup/)
-- [Azure Batch Low Priority VMs will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/azure-batch-low-priority-vms-will-be-retired-on-30-september-2025/)
-- [Support for PostgreSQL 11 in Azure Database PostgreSQL - Hyperscale &lpar;Citus&rpar; ends on 9 November 2023](https://azure.microsoft.com/en-us/updates/hyperscalecitus-pg11/)
-- [The application insights Java 2.X SDK will be retired on 30 September 2025](https://azure.microsoft.com/en-us/updates/application-insights-java-2x-retirement/)
-- [DevOps Starter is being retired. Use Azure Developer CLI for quick-start deployments to Azure](https://azure.microsoft.com/en-us/updates/retirement-notice-devops-starter-is-being-retired/)
 <!-- azure_update:END -->   
 
 
