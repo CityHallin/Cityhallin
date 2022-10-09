@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Simplified disaster recovery for VMware machines using Azure Site Recovery](https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/)
 - [Azure Batch Certificates will be retired on 29 February 2024](https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/)
 - [Azure Static Web Apps extended support for .NET Core 3.1 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/)
 - [Desired state configuration VM Extension for Linux, and Azure Automation DSC support for Linux, will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/migrate-from-linux-dsc-extension-to-the-guest-configuration-feature-of-azure-policy-by-may-1-2025/)
@@ -99,7 +100,6 @@
 - [Azure classic resource providers will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/)
 - [Upgrade to Standard SKU public IP addresses in Azure by 30 September 2025—Basic SKU will be retired](https://azure.microsoft.com/en-us/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/)
 - [Azure Percept DK Retirement Announcement](https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/)
-- [Public preview: Azure Firewall Basic](https://azure.microsoft.com/en-us/updates/public-preview-azure-firewall-basic/)
 <!-- azure_update:END -->   
 
 
