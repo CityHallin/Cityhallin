@@ -90,6 +90,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Integration Services Environment will be retired on 31 August 2024 – transition to Logic Apps Standard](https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/)
+- [General availability: New Azure proximity placement groups feature](https://azure.microsoft.com/en-us/updates/ppgintent/)
 - [General availability: Simplified disaster recovery for VMware machines using Azure Site Recovery](https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/)
 - [Azure Batch Certificates will be retired on 29 February 2024](https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/)
 - [Azure Static Web Apps extended support for .NET Core 3.1 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/)
@@ -98,8 +100,6 @@
 - [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023.](https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/)
 - [Migrate to Azure Monitor VM insights by 30 September 2025 when Service Map will be retired](https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/)
 - [Azure classic resource providers will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/)
-- [Upgrade to Standard SKU public IP addresses in Azure by 30 September 2025—Basic SKU will be retired](https://azure.microsoft.com/en-us/updates/upgrade-to-standard-sku-public-ip-addresses-in-azure-by-30-september-2025-basic-sku-will-be-retired/)
-- [Azure Percept DK Retirement Announcement](https://azure.microsoft.com/en-us/updates/azure-percept-dk-retirement-announcement/)
 <!-- azure_update:END -->   
 
 
