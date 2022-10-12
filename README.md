@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Azure Functions support for Node 12 is ending on 13 December 2022](https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-12-is-ending-on-13-december-2022/)
 - [Integration Services Environment will be retired on 31 August 2024 – transition to Logic Apps Standard](https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/)
 - [General availability: New Azure proximity placement groups feature](https://azure.microsoft.com/en-us/updates/ppgintent/)
 - [General availability: Simplified disaster recovery for VMware machines using Azure Site Recovery](https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/)
@@ -99,7 +100,6 @@
 - [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023](https://azure.microsoft.com/en-us/updates/action-required-support-for-azure-monitor-for-sap-solutions-classic-resources-will-end-by-31-march-2023/)
 - [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023.](https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/)
 - [Migrate to Azure Monitor VM insights by 30 September 2025 when Service Map will be retired](https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/)
-- [Azure classic resource providers will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/azure-classic-resource-providers-will-be-retired-on-31-august-2024/)
 <!-- azure_update:END -->   
 
 
