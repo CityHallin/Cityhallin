@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Azure Functions support for Node 12 is ending on 13 December 2022](https://azure.microsoft.com/en-us/updates/azure-functions-support-for-node-12-is-ending-on-13-december-2022/)
-- [Integration Services Environment will be retired on 31 August 2024 – transition to Logic Apps Standard](https://azure.microsoft.com/en-us/updates/integration-services-environment-will-be-retired-on-31-august-2024-transition-to-logic-apps-standard/)
-- [General availability: New Azure proximity placement groups feature](https://azure.microsoft.com/en-us/updates/ppgintent/)
-- [General availability: Simplified disaster recovery for VMware machines using Azure Site Recovery](https://azure.microsoft.com/en-us/updates/vmware-dr-ga-with-asr/)
-- [Azure Batch Certificates will be retired on 29 February 2024](https://azure.microsoft.com/en-us/updates/azure-batch-certificates-will-be-retired-on-29-february-2024/)
-- [Azure Static Web Apps extended support for .NET Core 3.1 ends on 3 December 2022](https://azure.microsoft.com/en-us/updates/staticwebappsdotnet3deprecation/)
-- [Desired state configuration VM Extension for Linux, and Azure Automation DSC support for Linux, will be retired on 30 September 2023](https://azure.microsoft.com/en-us/updates/migrate-from-linux-dsc-extension-to-the-guest-configuration-feature-of-azure-policy-by-may-1-2025/)
-- [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023](https://azure.microsoft.com/en-us/updates/action-required-support-for-azure-monitor-for-sap-solutions-classic-resources-will-end-by-31-march-2023/)
-- [Action required: Support for Azure Monitor for SAP solutions &lpar;classic&rpar; resources will end by 31 March 2023.](https://azure.microsoft.com/en-us/updates/azure-monitor-for-sap-solutions-classic-is-retiring-please-migrate-to-the-new-version-now/)
-- [Migrate to Azure Monitor VM insights by 30 September 2025 when Service Map will be retired](https://azure.microsoft.com/en-us/updates/migrate-to-azure-monitor-vm-insights-by-30-september-2025-when-service-map-will-be-retired/)
+- [Public preview: Computer Vision Image Analysis 4.0](https://azure.microsoft.com/en-us/updates/public-preview-computer-vision-image-analysis-40/)
+- [Public preview: Microsoft Azure Deployment Environments](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-deployment-environments/)
+- [Public preview: Support for HANA System Replication in Azure Backup for HANA](https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/)
+- [Generally available: Service Bus Explorer for the Azure portal](https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/)
+- [Generally available: Control the minimum TLS version used with Azure Service Bus](https://azure.microsoft.com/en-us/updates/announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga/)
+- [Public preview: Job diagram simulator in VS Code](https://azure.microsoft.com/en-us/updates/public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code/)
+- [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
+- [Public preview: Oracle to Azure migration with Database Migration Assessment for Oracle](https://azure.microsoft.com/en-us/updates/public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle/)
+- [Public preview: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/)
+- [Azure Machine Learning—Public preview updates for October 2022/Ignite](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-october-2022ignite/)
 <!-- azure_update:END -->   
 
 
