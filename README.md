@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Public preview: Computer Vision Image Analysis 4.0](https://azure.microsoft.com/en-us/updates/public-preview-computer-vision-image-analysis-40/)
-- [Public preview: Microsoft Azure Deployment Environments](https://azure.microsoft.com/en-us/updates/public-preview-microsoft-azure-deployment-environments/)
-- [Public preview: Support for HANA System Replication in Azure Backup for HANA](https://azure.microsoft.com/en-us/updates/public-preview-support-for-hana-system-replication-in-azure-backup-for-hana/)
-- [Generally available: Service Bus Explorer for the Azure portal](https://azure.microsoft.com/en-us/updates/announcing-service-bus-explorer-for-azure-portal-now-ga/)
-- [Generally available: Control the minimum TLS version used with Azure Service Bus](https://azure.microsoft.com/en-us/updates/announcing-policy-to-control-the-minimum-tls-version-used-with-azure-service-bus-now-ga/)
-- [Public preview: Job diagram simulator in VS Code](https://azure.microsoft.com/en-us/updates/public-preview-job-diagram-simulator-in-azure-stream-analytics-extension-for-vs-code/)
-- [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
-- [Public preview: Oracle to Azure migration with Database Migration Assessment for Oracle](https://azure.microsoft.com/en-us/updates/public-preview-oracle-to-azure-migration-with-database-migration-assessment-for-oracle/)
-- [Public preview: Azure Active Directory for Azure Database for PostgreSQL – Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-azure-active-directory-for-azure-database-for-postgresql-flexible-server/)
-- [Azure Machine Learning—Public preview updates for October 2022/Ignite](https://azure.microsoft.com/en-us/updates/azure-machine-learning-public-preview-updates-for-october-2022ignite/)
+- [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
+- [Public preview: Enhanced soft delete for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/)
+- [Public preview: Multi-user authorization for Backup vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/)
+- [Public preview: Immutable vaults for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-preview/)
+- [General availability: Azure NetApp Files application volume group for SAP HANA](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-application-volume-group-for-sap-hana/)
+- [Generally available: Windows Admin Center for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/)
+- [General availability: Static IP configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/)
+- [General availability: Azure Sphere OS version 22.10 expected on October 25](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210-expected-on-october-25/)
+- [General availability: Custom network interface name configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/)
+- [General availability: Azure Monitor predictive autoscale for Azure Virtual Machine Scale Sets](https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/)
 <!-- azure_update:END -->   
 
 
