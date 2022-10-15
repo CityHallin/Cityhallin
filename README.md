@@ -90,6 +90,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [In development: Introducing ExpressRoute Metro](https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/)
 - [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
 - [Public preview: Enhanced soft delete for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/)
 - [Public preview: Multi-user authorization for Backup vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/)
@@ -99,7 +100,6 @@
 - [General availability: Static IP configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/)
 - [General availability: Azure Sphere OS version 22.10 expected on October 25](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210-expected-on-october-25/)
 - [General availability: Custom network interface name configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/)
-- [General availability: Azure Monitor predictive autoscale for Azure Virtual Machine Scale Sets](https://azure.microsoft.com/en-us/updates/general-availability-azure-monitor-predictive-autoscale-for-azure-virtual-machine-scale-sets/)
 <!-- azure_update:END -->   
 
 
