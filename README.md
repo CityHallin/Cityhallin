@@ -88,6 +88,9 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
+- [Generally available: Auto Extension upgrade for Arc enabled Servers](https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/)
+- [General availability: Azure savings plan for compute](https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/)
 - [General availability: Zone-redundant storage support by Azure Backup](https://azure.microsoft.com/en-us/updates/azurebackupzrssupport/)
 - [Public preview: Exactly once delivery for Azure Data Lake Storage Gen2](https://azure.microsoft.com/en-us/updates/asa-exactly-once-adlsgen2/)
 - [Generally available: Azure Stream Analytics in one new region](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/)
@@ -95,9 +98,6 @@
 - [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
 - [Public preview: Enhanced soft delete for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/)
 - [Public preview: Multi-user authorization for Backup vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/)
-- [Public preview: Immutable vaults for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-preview/)
-- [General availability: Azure NetApp Files application volume group for SAP HANA](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-application-volume-group-for-sap-hana/)
-- [Generally available: Windows Admin Center for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/)
 <!-- azure_update:END -->   
 
 
