@@ -88,6 +88,8 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [General availability: Azure Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/general-availability-azure-premium-ssd-v2-disk-storage/)
+- [General availability: OpenTelemetry exporter for Azure Data Explorer](https://azure.microsoft.com/en-us/updates/general-availability-opentelemetry-exporter-for-azure-data-explorer/)
 - [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
 - [Generally available: Auto Extension upgrade for Arc enabled Servers](https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/)
 - [General availability: Azure savings plan for compute](https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/)
@@ -96,8 +98,6 @@
 - [Generally available: Azure Stream Analytics in one new region](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/)
 - [In development: Introducing ExpressRoute Metro](https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/)
 - [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
-- [Public preview: Enhanced soft delete for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/)
-- [Public preview: Multi-user authorization for Backup vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/)
 <!-- azure_update:END -->   
 
 
