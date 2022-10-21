@@ -88,6 +88,7 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Generally available: SFTP support for Azure Blob Storage](https://azure.microsoft.com/en-us/updates/sftp-support-for-azure-blob-storage-now-generally-available/)
 - [General availability: Azure Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/general-availability-azure-premium-ssd-v2-disk-storage/)
 - [General availability: OpenTelemetry exporter for Azure Data Explorer](https://azure.microsoft.com/en-us/updates/general-availability-opentelemetry-exporter-for-azure-data-explorer/)
 - [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
@@ -97,7 +98,6 @@
 - [Public preview: Exactly once delivery for Azure Data Lake Storage Gen2](https://azure.microsoft.com/en-us/updates/asa-exactly-once-adlsgen2/)
 - [Generally available: Azure Stream Analytics in one new region](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/)
 - [In development: Introducing ExpressRoute Metro](https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/)
-- [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
 <!-- azure_update:END -->   
 
 
