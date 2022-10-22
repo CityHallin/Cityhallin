@@ -88,16 +88,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Community support for Node 16 LTS is ending on 11 September 2023](https://azure.microsoft.com/en-us/updates/node16support/)
+- [App Service Environment version 1 and version 2 will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024/)
+- [Community support for PHP 8.0 is ending on 26 November 2023](https://azure.microsoft.com/en-us/updates/php8support/)
+- [Cloud Services &lpar;classic&rpar; deployment model is retiring on 31 August 2024](https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement/)
 - [Generally available: SFTP support for Azure Blob Storage](https://azure.microsoft.com/en-us/updates/sftp-support-for-azure-blob-storage-now-generally-available/)
 - [General availability: Azure Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/general-availability-azure-premium-ssd-v2-disk-storage/)
 - [General availability: OpenTelemetry exporter for Azure Data Explorer](https://azure.microsoft.com/en-us/updates/general-availability-opentelemetry-exporter-for-azure-data-explorer/)
 - [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
 - [Generally available: Auto Extension upgrade for Arc enabled Servers](https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/)
 - [General availability: Azure savings plan for compute](https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/)
-- [General availability: Zone-redundant storage support by Azure Backup](https://azure.microsoft.com/en-us/updates/azurebackupzrssupport/)
-- [Public preview: Exactly once delivery for Azure Data Lake Storage Gen2](https://azure.microsoft.com/en-us/updates/asa-exactly-once-adlsgen2/)
-- [Generally available: Azure Stream Analytics in one new region](https://azure.microsoft.com/en-us/updates/generally-available-azure-stream-analytics-in-one-new-region/)
-- [In development: Introducing ExpressRoute Metro](https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/)
 <!-- azure_update:END -->   
 
 
