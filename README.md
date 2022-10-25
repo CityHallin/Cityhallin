@@ -88,16 +88,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
+- [Public preview: Availability zone volume placement for Azure NetApp Files](https://azure.microsoft.com/en-us/updates/public-preview-availability-zone-volume-placement-for-azure-netapp-files/)
 - [Community support for Node 16 LTS is ending on 11 September 2023](https://azure.microsoft.com/en-us/updates/node16support/)
 - [App Service Environment version 1 and version 2 will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024/)
 - [Community support for PHP 8.0 is ending on 26 November 2023](https://azure.microsoft.com/en-us/updates/php8support/)
+- [Continuous delivery setting of Azure VMSS will be retired on 31 March 2023 – Use Azure DevOps to create pipelines](https://azure.microsoft.com/en-us/updates/continuous-delivery-setting-of-azure-vmss-will-be-retired-on-31-march-2023-use-azure-devops-to-create-pipelines/)
 - [Cloud Services &lpar;classic&rpar; deployment model is retiring on 31 August 2024](https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement/)
 - [Generally available: SFTP support for Azure Blob Storage](https://azure.microsoft.com/en-us/updates/sftp-support-for-azure-blob-storage-now-generally-available/)
 - [General availability: Azure Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/general-availability-azure-premium-ssd-v2-disk-storage/)
 - [General availability: OpenTelemetry exporter for Azure Data Explorer](https://azure.microsoft.com/en-us/updates/general-availability-opentelemetry-exporter-for-azure-data-explorer/)
 - [General availability: Stream Analytics no-code editor in Event Hubs](https://azure.microsoft.com/en-us/updates/general-availability-stream-analytics-nocode-editor-in-event-hubs/)
-- [Generally available: Auto Extension upgrade for Arc enabled Servers](https://azure.microsoft.com/en-us/updates/auto-extension-upgrade-for-arc-servers/)
-- [General availability: Azure savings plan for compute](https://azure.microsoft.com/en-us/updates/general-availability-azure-savings-plan-for-compute/)
 <!-- azure_update:END -->   
 
 
