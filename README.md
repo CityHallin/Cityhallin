@@ -88,16 +88,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [Generally available: Custom IP Prefixes &lpar;BYOIP&rpar; now available in US Government regions](https://azure.microsoft.com/en-us/updates/byoip-now-available-in-us-govt-regions/)
-- [Public preview: Availability zone volume placement for Azure NetApp Files](https://azure.microsoft.com/en-us/updates/public-preview-availability-zone-volume-placement-for-azure-netapp-files/)
-- [Community support for Node 16 LTS is ending on 11 September 2023](https://azure.microsoft.com/en-us/updates/node16support/)
-- [App Service Environment version 1 and version 2 will be retired on 31 August 2024](https://azure.microsoft.com/en-us/updates/app-service-environment-version-1-and-version-2-will-be-retired-on-31-august-2024/)
-- [Community support for PHP 8.0 is ending on 26 November 2023](https://azure.microsoft.com/en-us/updates/php8support/)
-- [Continuous delivery setting of Azure VMSS will be retired on 31 March 2023 – Use Azure DevOps to create pipelines](https://azure.microsoft.com/en-us/updates/continuous-delivery-setting-of-azure-vmss-will-be-retired-on-31-march-2023-use-azure-devops-to-create-pipelines/)
-- [Cloud Services &lpar;classic&rpar; deployment model is retiring on 31 August 2024](https://azure.microsoft.com/en-us/updates/cloud-services-classic-retirement-announcement/)
-- [Generally available: SFTP support for Azure Blob Storage](https://azure.microsoft.com/en-us/updates/sftp-support-for-azure-blob-storage-now-generally-available/)
-- [General availability: Azure Premium SSD v2 Disk Storage](https://azure.microsoft.com/en-us/updates/general-availability-azure-premium-ssd-v2-disk-storage/)
-- [General availability: OpenTelemetry exporter for Azure Data Explorer](https://azure.microsoft.com/en-us/updates/general-availability-opentelemetry-exporter-for-azure-data-explorer/)
+- [General availability: Azure Sphere OS version 22.10](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210/)
+- [Generally available: Azure Communication Services short code functionality for SMS](https://azure.microsoft.com/en-us/updates/generally-available-azure-communication-services-short-code-functionality-for-sms/)
+- [Azure SQL General availability updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/)
+- [Public preview: Azure Load Testing supports authenticating with client certificates](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-authenticating-with-client-certificates/)
+- [Azure SQL Public preview updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/)
+- [Public preview: Read replicas for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-read-replicas-for-azure-database-for-postgresql-flexible-server/)
+- [Public preview: Improved passive geo-replication for Azure Cache for Redis](https://azure.microsoft.com/en-us/updates/public-preview-improved-passive-georeplication-for-azure-cache-for-redis/)
+- [General availability: Azure Cosmos DB for MongoDB data plane RBAC](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-data-plane-rbac/)
+- [Public preview: Azure CNI Powered by Cilium](https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-powered-by-cilium/)
+- [Public preview: Azure Synapse Link for Azure Cosmos DB Gremlin API](https://azure.microsoft.com/en-us/updates/public-preview-azure-synapse-link-for-azure-cosmos-db-gremlin-api/)
 <!-- azure_update:END -->   
 
 
