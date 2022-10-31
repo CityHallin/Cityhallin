@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "azure_update"
-          max_post_count: 10
+          max_post_count: 20
           feed_list: "https://azurecomcdn.azureedge.net/en-us/updates/feed/"
