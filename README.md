@@ -85,24 +85,6 @@
 - Insurance
 - Freelance
 
----
-
-## ⛅ Azure Update Feed
-*Updates from the Microsoft Azure blog refresh every few hours*
-<!-- azure_update:START -->
-- [Public preview: SAP S/4HANA events are now available on Azure Event Grid](https://azure.microsoft.com/en-us/updates/public-preview-sap-s4hana-events-are-now-available-on-azure-event-grid/)
-- [General availability: Azure Sphere OS version 22.10](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210/)
-- [Generally available: Azure Communication Services short code functionality for SMS](https://azure.microsoft.com/en-us/updates/generally-available-azure-communication-services-short-code-functionality-for-sms/)
-- [Azure SQL General availability updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/)
-- [Public preview: Azure Load Testing supports authenticating with client certificates](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-authenticating-with-client-certificates/)
-- [Azure SQL Public preview updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/)
-- [Public preview: Read replicas for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-read-replicas-for-azure-database-for-postgresql-flexible-server/)
-- [Public preview: Improved passive geo-replication for Azure Cache for Redis](https://azure.microsoft.com/en-us/updates/public-preview-improved-passive-georeplication-for-azure-cache-for-redis/)
-- [General availability: Azure Cosmos DB for MongoDB data plane RBAC](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-data-plane-rbac/)
-- [Public preview: Azure CNI Powered by Cilium](https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-powered-by-cilium/)
-<!-- azure_update:END -->   
-
-
 <!-- Resources -->
 <!-- Shields: https://shields.io/ -->
 <!---RSS Feed: https://github.com/gautamkrishnar/blog-post-workflow--->
