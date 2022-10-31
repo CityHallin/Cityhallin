@@ -3,7 +3,7 @@
 
 <img src="./images/rebo.gif" width="80px"> <img src="./images/cat2.gif" width="100px"> <img src="./images/servers.gif" width="150px"> 
 
-***CityHallin*** here. I'm a System Administrator and Cloud Automation Engineer living in the US. I've been in the technology business for over 12 years. Most of my career has been in the sysadmin world, but in the last couple of years I have shifted to the cloud; mainly Azure. 
+***CityHallin*** here. I'm a System Administrator and Cloud Automation Engineer living in the US. Most of my career has been in the sysadmin world, but in the last couple of years I have shifted to the cloud; mainly Microsoft Azure. 
 
 ### Public Key Info
 
@@ -12,8 +12,8 @@
 ## 🐱‍👓 Tools
 ![](https://img.shields.io/badge/TOOLS-Ansible-red)
 ![](https://img.shields.io/badge/TOOLS-Azure_DevOPS-ffdd00)
-![](https://img.shields.io/badge/TOOLS-Github-382009)
-![](https://img.shields.io/badge/TOOLS-Gitlab-orange)
+![](https://img.shields.io/badge/TOOLS-GitHub-382009)
+![](https://img.shields.io/badge/TOOLS-GitLab-orange)
 ![](https://img.shields.io/badge/TOOLS-PowerShell-blue)
 ![](https://img.shields.io/badge/TOOLS-Terraform-blueviolet)
 ![](https://img.shields.io/badge/EDITOR-VSCode-blue)
@@ -33,7 +33,6 @@
 
 ## 🐱‍💻 On-Premises Services
 ![](https://img.shields.io/badge/SERVICE-AD_DS-yellow)
-![](https://img.shields.io/badge/SERVICE-Altiris-bbbb33)
 ![](https://img.shields.io/badge/SERVICE-BackupEXEC-lightgrey)
 ![](https://img.shields.io/badge/SERVICE-Certificate_Authority-blueviolet)
 ![](https://img.shields.io/badge/SERVICE-Citrix-aa5577)
@@ -43,23 +42,26 @@
 ![](https://img.shields.io/badge/SERVICE-Netwrix-yellow)
 ![](https://img.shields.io/badge/SERVICE-NPS-ffff88)
 ![](https://img.shields.io/badge/SERVICE-SCVMM-orange)
+![](https://img.shields.io/badge/SERVICE-Symantec-bbbb33)
 ![](https://img.shields.io/badge/SERVICE-Varonix-red)
 ![](https://img.shields.io/badge/SERVICE-WSUS-17ad76)
 
 ## 🐱‍🏍 Cloud
-![](https://img.shields.io/badge/Azure-AAD-blueviolet)
+![](https://img.shields.io/badge/Azure-Active_Directory-blueviolet)
 ![](https://img.shields.io/badge/Azure-Application_Gateway-blue)
 ![](https://img.shields.io/badge/Azure-App_Services-red)
 ![](https://img.shields.io/badge/Azure-Arc-200099)
+![](https://img.shields.io/badge/Azure-Automation_Account-900099)
+![](https://img.shields.io/badge/Azure-Containers-lightgreen)
 ![](https://img.shields.io/badge/Azure-DNS-blue)
 ![](https://img.shields.io/badge/Azure-Functions-yellow)
 ![](https://img.shields.io/badge/Azure-IoT_Hub-5209dd)
 ![](https://img.shields.io/badge/Azure-Key_Vaults-red)
+![](https://img.shields.io/badge/Azure-Kubernetes_Services-lightgrey)
 ![](https://img.shields.io/badge/Azure-Log_Analytics-668213)
 ![](https://img.shields.io/badge/Azure-Logic_Apps-orange)
 ![](https://img.shields.io/badge/Azure-Migrate-red)
 ![](https://img.shields.io/badge/Azure-Monitor-1745926)
-![](https://img.shields.io/badge/Azure-Runbooks-green)
 ![](https://img.shields.io/badge/Azure-SQL_Instances-lightgrey)
 ![](https://img.shields.io/badge/Azure-Storage_Accounts-927516)
 ![](https://img.shields.io/badge/Azure-VMs-blueviolet)
