@@ -90,16 +90,16 @@
 ## ⛅ Azure Update Feed
 *Updates from the Microsoft Azure blog refresh every few hours*
 <!-- azure_update:START -->
-- [In development: Introducing ExpressRoute Metro](https://azure.microsoft.com/en-us/updates/in-development-introducing-expressroute-metro/)
-- [Generally available: Kusto Trender](https://azure.microsoft.com/en-us/updates/kustotrender/)
-- [Public preview: Enhanced soft delete for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-enhanced-soft-delete-preview/)
-- [Public preview: Multi-user authorization for Backup vaults](https://azure.microsoft.com/en-us/updates/azure-backup-mua-backup-vaults-preview/)
-- [Public preview: Immutable vaults for Azure Backup](https://azure.microsoft.com/en-us/updates/azure-backup-immutable-vaults-preview/)
-- [General availability: Azure NetApp Files application volume group for SAP HANA](https://azure.microsoft.com/en-us/updates/general-availability-azure-netapp-files-application-volume-group-for-sap-hana/)
-- [Generally available: Windows Admin Center for Azure Virtual Machines](https://azure.microsoft.com/en-us/updates/windows-admin-center-for-azure-virtual-machines/)
-- [General availability: Static IP configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-static-ip-configurations-of-private-endpoints/)
-- [General availability: Azure Sphere OS version 22.10 expected on October 25](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210-expected-on-october-25/)
-- [General availability: Custom network interface name configurations of private endpoints](https://azure.microsoft.com/en-us/updates/general-availability-custom-nic-name-configurations-of-private-endpoints/)
+- [Public preview: SAP S/4HANA events are now available on Azure Event Grid](https://azure.microsoft.com/en-us/updates/public-preview-sap-s4hana-events-are-now-available-on-azure-event-grid/)
+- [General availability: Azure Sphere OS version 22.10](https://azure.microsoft.com/en-us/updates/general-availability-azure-sphere-os-version-2210/)
+- [Generally available: Azure Communication Services short code functionality for SMS](https://azure.microsoft.com/en-us/updates/generally-available-azure-communication-services-short-code-functionality-for-sms/)
+- [Azure SQL General availability updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-general-availability-updates-for-late-october-2022/)
+- [Public preview: Azure Load Testing supports authenticating with client certificates](https://azure.microsoft.com/en-us/updates/public-preview-azure-load-testing-supports-authenticating-with-client-certificates/)
+- [Azure SQL Public preview updates for late October 2022](https://azure.microsoft.com/en-us/updates/azure-sql-public-preview-updates-for-late-october-2022/)
+- [Public preview: Read replicas for Azure Database for PostgreSQL Flexible Server](https://azure.microsoft.com/en-us/updates/public-preview-read-replicas-for-azure-database-for-postgresql-flexible-server/)
+- [Public preview: Improved passive geo-replication for Azure Cache for Redis](https://azure.microsoft.com/en-us/updates/public-preview-improved-passive-georeplication-for-azure-cache-for-redis/)
+- [General availability: Azure Cosmos DB for MongoDB data plane RBAC](https://azure.microsoft.com/en-us/updates/general-availability-azure-cosmos-db-for-mongodb-data-plane-rbac/)
+- [Public preview: Azure CNI Powered by Cilium](https://azure.microsoft.com/en-us/updates/public-preview-azure-cni-powered-by-cilium/)
 <!-- azure_update:END -->   
 
 
