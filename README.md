@@ -1,9 +1,9 @@
 
-[![Header](https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/cityhallin_header.png "Header")](https://github.com/CityHallin)
+[![Header](https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/ban_header.png "Header")](https://github.com/CityHallin)
 
 <img src="./images/rebo.gif" width="80px"> <img src="./images/cat2.gif" width="100px"> <img src="./images/servers.gif" width="150px"> 
 
-***CityHallin*** here. I'm a System Administrator and Cloud Automation Engineer living in the US. Most of my career has been in the sysadmin world, but in the last couple of years I have shifted to the cloud; mainly Microsoft Azure. 
+***CityHallin*** here. I'm a System Administrator and Cloud Automation Engineer living in the US. Most of my career has been in the sysadmin world, but in the last few years I have shifted to the cloud; mainly Microsoft Azure. 
 
 ### Public Key Info
  <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/keybase.png" width="20px"> [Keybase.io](https://keybase.io/cityhall)
