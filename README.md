@@ -77,7 +77,8 @@
 - Infrastructure Engineer
 - Systems Administrator
 - Cloud Administrator
-- Site Reliability Engineer
+- Cloud Site Reliability Engineer
+- Cloud Platform Engineer
 
 ## 🏭 Industries Worked
 - Healthcare
