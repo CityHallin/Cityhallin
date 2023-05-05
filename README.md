@@ -86,6 +86,7 @@
 - Public Government
 - Media
 - Insurance
+- Educational Administration
 - Freelance
 
 <!-- Resources -->
