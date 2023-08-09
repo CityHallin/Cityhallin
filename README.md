@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/SERVICE-WSUS-17ad76)
 
 ## ⛅ Cloud
-![](https://img.shields.io/badge/Azure-Active_Directory-blueviolet)
+![](https://img.shields.io/badge/Azure-Entra_ID-blue)
 ![](https://img.shields.io/badge/Azure-Application_Gateway-blue)
 ![](https://img.shields.io/badge/Azure-App_Services-red)
 ![](https://img.shields.io/badge/Azure-Arc-200099)
