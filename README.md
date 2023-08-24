@@ -5,11 +5,11 @@
 
 ***CityHallin*** here. I'm a System Administrator and Cloud Automation Engineer living in the US. Most of my career has been in the sysadmin world, but in the last few years I have shifted to the cloud; mainly Microsoft Azure. 
 
-### Public Key Info
- <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/keybase.png" width="20px"> [Keybase.io](https://keybase.io/cityhall)
+  ><img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/keybase.png" width="20px"> [Keybase.io](https://keybase.io/cityhall)
 
- ### GitHub Gist
- <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/ghgist.png" width="20px"> [Gist](https://gist.github.com/CityHallin)
+> <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/ghgist.png" width="20px"> [Gist](https://gist.github.com/CityHallin)
+
+> <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/discord-c.png" width="20px"> [cityhallin](https://discord.com/)
 
  ## 🛠️ Tools
 ![](https://img.shields.io/badge/TOOLS-Ansible-red)
