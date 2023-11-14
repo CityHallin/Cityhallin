@@ -11,6 +11,8 @@
 
 > <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/discord-c.png" width="20px"> [cityhallin](https://discord.com/)
 
+> <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/discord-c.png" width="20px"> [Ignite Crew Discord Server](https://discord.gg/wdjpbWMV)
+
  ## 🛠️ Tools
 ![](https://img.shields.io/badge/TOOLS-Ansible-red)
 ![](https://img.shields.io/badge/TOOLS-Azure_DevOPS-ffdd00)
