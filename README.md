@@ -12,6 +12,8 @@
 
 > <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/discord-c.png" width="20px"> [cityhallin](https://discord.com/)
 
+> <img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/main/images/mastodon.png" width="20px"> <a rel="me" href="https://infosec.exchange/@cityhallin">Mastodon</a>
+
 
  ## 🛠️ Tools
 ![](https://img.shields.io/badge/TOOLS-Ansible-red)
