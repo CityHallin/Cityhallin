@@ -1,8 +1,1 @@
 <img src="./images/servers.gif" width="150px" />
-
-<br />
-
-<img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/refs/heads/main/images/keybase.png" width="20px"> [Keybase.io](https://keybase.io/cityhall)
-
-<img src="https://raw.githubusercontent.com/CityHallin/Cityhallin/refs/heads/main/images/mastodon.png" width="20px"> <a rel="me" href="https://infosec.exchange/@cityhallin">CityHallin</a>
-
